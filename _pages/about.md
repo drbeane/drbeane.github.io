@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/iamge/zakim.jpg"
+  image: "/image/iceland.jpg"
 ---
 
-I'm an Associate Professor of Mathematics at Lindenwood University. 
+I'm an Associate Professor of Mathematics at Lindenwood University.

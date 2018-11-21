@@ -316,7 +316,7 @@ for (i in 1:10000){
   errors &lt;- x - mean(x)
   SSE &lt;- sum(errors^2)
   t2 &lt;- SSE / 5
-  
+
   t2_vector &lt;- c(t2_vector, t2)
 }
 mean(t2_vector)</code></pre>
@@ -340,7 +340,7 @@ for (i in 1:10000){
   errors &lt;- x - mean(x)
   SSE &lt;- sum(errors^2)
   s2 &lt;- SSE / 4
-  
+
   s2_vector &lt;- c(s2_vector, s2)
 }
 mean(s2_vector)</code></pre>
@@ -368,22 +368,22 @@ mean(s2_vector)</code></pre>
 <hr />
 <p><strong>Proof of Property 1.</strong> Let <span class="math inline">\(x_1, x_2, ..., x_N\)</span> denote the values of <span class="math inline">\(X\)</span> for individuals within the population. Then:</p>
 <center>
-<span class="math display">\[\mathrm{E}[a X] = 
-\frac{1}{N} \sum_{i=1}^N (a x_i) =  
-\frac{1}{N} \cdot a \cdot \sum_{i=1}^N x_i =  
-a \left(\frac{1}{N} \sum_{i=1}^N  x_i \right) = 
+<span class="math display">\[\mathrm{E}[a X] =
+\frac{1}{N} \sum_{i=1}^N (a x_i) =
+\frac{1}{N} \cdot a \cdot \sum_{i=1}^N x_i =
+a \left(\frac{1}{N} \sum_{i=1}^N  x_i \right) =
 a \cdot \mathrm{E}[X]\]</span>
 </center>
 <hr />
 <p><strong>Proof of Property 3.</strong> Let <span class="math inline">\(x_1, x_2, ..., x_N\)</span> denote the values of <span class="math inline">\(X\)</span> for individuals within the population. Then:</p>
 <center>
-<span class="math display">\[\mathrm{Var}[a X] = 
+<span class="math display">\[\mathrm{Var}[a X] =
 \frac{1}{N} \sum_{i=1}^N (a x_i - E[a X])^2 =
-\frac{1}{N} \sum_{i=1}^N (a x_i - a \mu)^2 =  
-\frac{1}{N} \sum_{i=1}^N \left[a(x_i - \mu)\right]^2  
+\frac{1}{N} \sum_{i=1}^N (a x_i - a \mu)^2 =
+\frac{1}{N} \sum_{i=1}^N \left[a(x_i - \mu)\right]^2
 \]</span> <span class="math display">\[
-= \frac{1}{N} \sum_{i=1}^N a^2(x_i - \mu)^2 =  
-a^2 \frac{1}{N} \sum_{i=1}^N (x_i - \mu)^2 =  
+= \frac{1}{N} \sum_{i=1}^N a^2(x_i - \mu)^2 =
+a^2 \frac{1}{N} \sum_{i=1}^N (x_i - \mu)^2 =
 a^2 \cdot \mathrm{Var}[X]
 \]</span>
 </center>
