@@ -68,7 +68,7 @@ as
       <code data-type="pre-exercise-code"></code>
       <code data-type="sample-code">
         import numpy as np
-        np.print_options(suppress=True, precision=2)
+        np.set_printoptions(suppress=True, precision=2)
         np.random.seed(1)
 
         prob = np.random.uniform(low=0, high=1, size=10)
