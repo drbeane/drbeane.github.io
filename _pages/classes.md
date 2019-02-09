@@ -18,6 +18,19 @@ DSCI 11000
 + [lesson3](lesson03.Rmd)
 + [lesson4](lesson04.ipynb)
 
+<head>
+  <meta charset="utf-8" />
+  <title>DataCamp Light | Standalone example</title>
+  <link rel='shortcut icon' type='image/x-icon' href='https://www.datacamp.com/assets/favicon.ico'/>
+  <style>
+    .exercise {
+      margin: 50px;
+    }
+  </style>
+
+  <script async src="https://cdn.datacamp.com/dcl-react-dev.js.gz"></script>
+</head>
+
 
   <div class="exercise">
 
