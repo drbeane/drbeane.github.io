@@ -60,7 +60,7 @@ as
     </div>
   </div>
 
-  ### Example 2: Determining Predicted Classes
++ Example 2: Determining Predicted Classes
 
   We can us `np.where` to blah blah blah.
 
