@@ -26,6 +26,7 @@ DSCI 11000
   <style>
     .exercise {
       width: 1000px;
+      height: 1000px;
       margin: 5px;
     }
   </style>
