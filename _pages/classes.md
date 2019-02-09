@@ -71,7 +71,7 @@ as
         np.set_printoptions(suppress=True, precision=2)
         np.random.seed(1)
 
-        prob = np.random.uniform(low=0, high=1, size=10)
+        prob = np.random.uniform(low=0, high=1, size=8)
 
         pred = np.where(prob < 0.5, 'A', 'B')
 
