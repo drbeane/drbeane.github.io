@@ -26,7 +26,7 @@ as
   <link rel='shortcut icon' type='image/x-icon' href='https://www.datacamp.com/assets/favicon.ico'/>
   <style>
     .exercise {
-      width: 1000px;
+      width: 1200px;
       margin: 5px;
     }
   </style>
@@ -72,7 +72,7 @@ as
 
         prob = np.random.uniform(low=0, high=1, size=10)
 
-        pred = np.where(p < 0.5, 'A', 'B')
+        pred = np.where(prob < 0.5, 'A', 'B')
 
         print('prob =', prob, '\n')
         print('pred =', pred)
