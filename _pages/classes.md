@@ -18,6 +18,7 @@ DSCI 11000
 + [lesson3](lesson03.Rmd)
 + [lesson4](lesson04.ipynb)
 
+as
 
 <head>
   <meta charset="utf-8" />
@@ -26,7 +27,6 @@ DSCI 11000
   <style>
     .exercise {
       width: 1000px;
-      height: 1000px;
       margin: 5px;
     }
   </style>
@@ -39,7 +39,7 @@ DSCI 11000
     <div class="title">
       <h2>Example: np.where</h2>
     </div>
-    <div data-datacamp-exercise data-lang="python" data-height="auto">
+    <div data-datacamp-exercise data-lang="python" data-height="1000px">
       <code data-type="pre-exercise-code"></code>
       <code data-type="sample-code">
         import numpy as np
