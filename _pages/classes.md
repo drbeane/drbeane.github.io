@@ -17,7 +17,7 @@ DSCI 11000
 + [lesson2](lesson02.html)
 + [lesson3](lesson03.Rmd)
 + [lesson4](lesson04.ipynb)
- 
+
 
 <head>
   <meta charset="utf-8" />
@@ -35,21 +35,47 @@ DSCI 11000
 
 
   <div class="exercise">
-
     <div class="title">
-      <h2>This is an python exercise with a plot</h2>
+      <h2>Example: np.where</h2>
     </div>
-
     <div data-datacamp-exercise data-lang="python" data-height="auto">
       <code data-type="pre-exercise-code"></code>
       <code data-type="sample-code">
         import numpy as np
-        import matplotlib.pyplot as plt
 
-        x = np.arange(0, 5, 0.1);
-        y = np.sin(x)
-        plt.plot(x, y)
-        plt.show()
+        X = np.array(
+          [[ 0.4,  1.2, -0.6],
+           [ 1.6, -0.9,  0.5],
+           [-0.4, -1.4,  1.7]]
+        )
+
+        Z = np.where(X < 0, 0, X)
+
+        print(Z)
+      </code>
+      <code data-type="solution"></code>
+      <code data-type="sct"></code>
+      <!--<div data-type="hint">Just press 'Run'.</div>-->
+    </div>
+  </div>
+
+  <div class="exercise">
+    <div class="title">
+      <h2>Example: np.where</h2>
+    </div>
+    <div data-datacamp-exercise data-lang="python" data-height="auto">
+      <code data-type="pre-exercise-code"></code>
+      <code data-type="sample-code">
+        import numpy as np
+        np.random.seed(1)
+
+        prob = np.random.uniform(low=0, high=1, n=10)
+
+        pred = np.where(p < 0.5, 'A', 'B')
+
+        print('prob =', prob, '\n')
+        print('pred =', pred)
+
       </code>
       <code data-type="solution"></code>
       <code data-type="sct"></code>

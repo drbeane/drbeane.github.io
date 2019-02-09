@@ -8,7 +8,6 @@
   <style>
     .exercise {
       width: 800px;
-      font-size: 8px;
       margin: 5px;
     }
   </style>
@@ -29,12 +28,18 @@
       <code data-type="pre-exercise-code"></code>
       <code data-type="sample-code">
         import numpy as np
-        import matplotlib.pyplot as plt
 
-        x = np.arange(0, 5, 0.1);
-        y = np.sin(x)
-        plt.plot(x, y)
-        plt.show()
+        X = np.array(
+          [[ 0.4,  1.2, -0.6],
+           [ 1.6, -0.9,  0.5],
+           [-0.4, -1.4,  1.7]]
+        )
+
+        Z = np.where(X < 0, 0, X)
+
+        print(Z)
+
+
       </code>
       <code data-type="solution"></code>
       <code data-type="sct"></code>
