@@ -25,7 +25,7 @@ DSCI 11000
   <link rel='shortcut icon' type='image/x-icon' href='https://www.datacamp.com/assets/favicon.ico'/>
   <style>
     .exercise {
-      width: 800px;
+      width: 1000px;
       margin: 5px;
     }
   </style>
