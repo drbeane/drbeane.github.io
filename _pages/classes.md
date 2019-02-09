@@ -17,8 +17,7 @@ DSCI 11000
 + [lesson2](lesson02.html)
 + [lesson3](lesson03.Rmd)
 + [lesson4](lesson04.ipynb)
-
-ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss 
+ 
 
 <head>
   <meta charset="utf-8" />
