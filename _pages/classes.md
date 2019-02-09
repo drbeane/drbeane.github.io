@@ -39,7 +39,7 @@ as
     <div class="title">
       <h2>Example: np.where</h2>
     </div>
-    <div data-datacamp-exercise data-lang="python" data-height="1000px">
+    <div data-datacamp-exercise data-lang="python" data-height="400px">
       <code data-type="pre-exercise-code"></code>
       <code data-type="sample-code">
         import numpy as np
@@ -64,7 +64,7 @@ as
     <div class="title">
       <h2>Example: np.where</h2>
     </div>
-    <div data-datacamp-exercise data-lang="python" data-height="auto">
+    <div data-datacamp-exercise data-lang="python" data-height="400px">
       <code data-type="pre-exercise-code"></code>
       <code data-type="sample-code">
         import numpy as np
