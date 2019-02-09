@@ -70,7 +70,7 @@ as
         import numpy as np
         np.random.seed(1)
 
-        prob = np.random.uniform(low=0, high=1, n=10)
+        prob = np.random.uniform(low=0, high=1, size=10)
 
         pred = np.where(p < 0.5, 'A', 'B')
 
