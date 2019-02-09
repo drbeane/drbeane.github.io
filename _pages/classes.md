@@ -18,6 +18,8 @@ DSCI 11000
 + [lesson3](lesson03.Rmd)
 + [lesson4](lesson04.ipynb)
 
+ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss ssssssssssss 
+
 <head>
   <meta charset="utf-8" />
   <title>DataCamp Light | Standalone example</title>
@@ -25,7 +27,7 @@ DSCI 11000
   <style>
     .exercise {
       width: 800px;
-      margin: 50px;
+      margin: 5px;
     }
   </style>
 
