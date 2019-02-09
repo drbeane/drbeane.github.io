@@ -62,7 +62,7 @@ as
 
 + Example 2: Determining Predicted Classes
 
-  We can us `np.where` to blah blah blah.
+We can us `np.where` to blah blah blah.
 
   <div class="exercise">
     <div class="title">
