@@ -17,6 +17,7 @@ DSCI 11000
 + [lesson2](lesson02.html)
 + [lesson3](lesson03.Rmd)
 + [lesson4](lesson04.ipynb)
++ [intro](temp/intro.html)
 
 as
 
