@@ -8,18 +8,19 @@ header:
 ---
 These are some classes.
 
-MTH 34500
-
-DSCI 11000
-
-+ [DataCamp](example.html)
 + [Financial Mathematics](classes/MTH324/financial_math.md)
 + [Models for Financial Economics](classes/MTH326/mfe.md)
++ [Regression Analysis](classes/MTH345/regression.md)
+
+
 + [lesson1](lesson01.html)
 + [lesson2](lesson02.html)
 + [lesson3](lesson03.Rmd)
 + [lesson4](lesson04.ipynb)
 + [intro](temp/intro.html)
+
+
++ [DataCamp](example.html)
 
 as
 
