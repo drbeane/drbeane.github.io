@@ -7,4 +7,4 @@ header:
   images: "../../../images/iceland.jpg"
 ---
 
-+ [Tutorial on np.where](resources/np.where.md)
++ [Tutorial on np.where](resources/np.where)
