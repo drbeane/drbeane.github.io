@@ -13,7 +13,7 @@ MTH 34500
 DSCI 11000
 
 + [DataCamp](example.html)
-+ [lesson1](classes/MTH324/financial_math.md)
++ [Financial Mathematics](classes/MTH324/financial_math.md)
 + [lesson1](lesson01.html)
 + [lesson2](lesson02.html)
 + [lesson3](lesson03.Rmd)
