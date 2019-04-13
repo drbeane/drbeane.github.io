@@ -5,10 +5,10 @@ main:
     url: /about/
   - title: "Classes"
     url: /classes/
-  - title: "Tutorials"
-    url: /tutorials/
+  - title: "resources"
+    url: /resources/
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
 
 
   # - title: "Quick Start"

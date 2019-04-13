@@ -1,25 +1,11 @@
 ---
 layout: archive
-permalink: /classes/
-title: "Course Materials"
+permalink: /resources/np.where
+title: "Tutorial on np.where"
 author_profile: true
 header:
   image: "../../../images/canyonlands.jpg"
 ---
-These are some classes.
-
-+ [Financial Mathematics](classes/MTH324/financial_math.md)
-+ [Models for Financial Economics](classes/MTH326/mfe.md)
-+ [Regression Analysis](classes/MTH345/regression.md)
-+ [Introduction to Python](classes/DSCI110/python.md)
-
-
-+ [lesson1](lesson01.html)
-+ [lesson2](lesson02.html)
-+ [lesson3](lesson03.Rmd)
-+ [lesson4](lesson04.ipynb)
-+ [intro](temp/intro.html)
-
 
 + [DataCamp](example.html)
 
