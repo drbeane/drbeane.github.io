@@ -3,7 +3,7 @@ title: "Financial Mathematics"
 layout: archive
 permalink: /classes/fm
 header:
-  image: "/image/iceland.jpg"
+  image: "../../../images/canyonlands.jpg"
 ---
 
 + [All Chapters](FM Notes.pdf)

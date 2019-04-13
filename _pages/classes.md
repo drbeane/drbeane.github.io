@@ -4,7 +4,7 @@ permalink: /classes/
 title: "Course Materials"
 author_profile: true
 header:
-  image: "/images/iceland.jpg"
+  image: "../../../images/canyonlands.jpg"
 ---
 These are some classes.
 
