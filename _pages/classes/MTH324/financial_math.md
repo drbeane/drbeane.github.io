@@ -1,5 +1,6 @@
 ---
 title: "Financial Mathematics"
+layout: archive
 permalink: /classes/fm
 header:
   image: "/image/iceland.jpg"
