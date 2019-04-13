@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /classes/
-title: "My Classes"
+title: "Course Materials"
 author_profile: true
 header:
   image: "/images/iceland.jpg"
@@ -14,6 +14,7 @@ DSCI 11000
 
 + [DataCamp](example.html)
 + [Financial Mathematics](classes/MTH324/financial_math.md)
++ [Models for Financial Economics](classes/MTH326/mfe.md)
 + [lesson1](lesson01.html)
 + [lesson2](lesson02.html)
 + [lesson3](lesson03.Rmd)
