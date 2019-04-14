@@ -14,3 +14,4 @@ These are some classes.
 + [Introduction to Python](classes/DSCI110/python.md)
 + Machine Learning
 + Neural Networks
++ Theory of Probability

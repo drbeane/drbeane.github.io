@@ -7,4 +7,7 @@ header:
   image: "/images/druidarch.jpg"
 ---
 
-+ [Tutorial on np.where](np_where)
++ [Data Science Resources](dsci_resources)
++ [Actuarial Exam Formula Sheets](actsci_formulas)
++ [Interactive Python Tutorials](python_tutorials)
+    + [Tutorial on np.where](np_where)
