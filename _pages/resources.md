@@ -8,3 +8,5 @@ header:
 ---
 
 + [Tutorial on np.where](resources/np.where)
+
+druid
