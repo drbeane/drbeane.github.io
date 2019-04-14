@@ -7,7 +7,6 @@ header:
   image: "/images/quandry.jpg"
 ---
 
-quandary
 
 {% include group-by-array collection=site.posts field="tags" %}
 
