@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Robbie Beane"
+title                    : "Robbie Beane's Blog"
 title_separator          : "-"
 name                     : "Robbie Beane"
 description              : "Data Science Portfolio"
@@ -103,13 +103,13 @@ analytics:
 author:
   name             : "Robbie Beane"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Mathematics Professor"
+  bio              : "Associate Professor of Mathematics and Data Science"
   location         : "St. Louis, MO"
   email            :
   links:
-    - label: "Email"
+    - label: "rbeane@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:rbeane@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
