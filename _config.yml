@@ -105,6 +105,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Associate Professor of Mathematics and Data Science
   ,aa Director of Division of Mathematics and Computer Science at Lindenwood University"
+  bio              : "blah"
   location         : "St. Louis, MO"
   email            :
   links:
