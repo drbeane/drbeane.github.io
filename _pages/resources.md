@@ -7,16 +7,28 @@ header:
   image: "/images/druidarch.jpg"
 ---
 
-+ [Data Science Resources](dsci_resources)
+<h2>Data Science Resources</h2>
+
++ [General R Resources](/resources/r_programming.md)
++ [General Python Resources](/resources/r_programming.md)
++ [Regression Analysis](/resources/regression.md)
++ [Machine Learning](/resources/machine_learning.md)
++ [Deep Learning](/resources/deep_learning.md)
++ [Data Visualization](/resources/data_vis.md)
++ [Text Mining](/resources/text_mining.md)
 
 <h2>Actuarial Exam resources</h2>
 
-<h3>P Exam</h3>
-+ [P Exam Formula Sheet](/actuarial_resources/P - Formula Sheet.pdf)
-+ [P Exam Flash Cards](/actuarial_resources/P - Flash Cards.pdf)
+<b>P Exam</b>
++ [P Exam Formula Sheet](/resources/actuarial_resources/P - Formula Sheet.pdf)
++ [P Exam Flash Cards](/resources/actuarial_resources/P - Flash Cards.pdf)
 
-<h3>FM Exam</h3>
-+ [FM Exam Formula Sheet]()
-+ [Actuarial Exam Formula Sheets](actsci_formulas)
-+ [Interactive Python Tutorials](python_tutorials)
-    + [Tutorial on np.where](np_where)
+<b>FM Exam</b>
++ [FM Exam Formula Sheet](/resources/actuarial_resources/FM - Formula Sheet.pdf)
++ [FM Exam Flash Cards](/resources/actuarial_resources/FM - Flash Cards.pdf)
+
+<b>IFM Exam</b>
++ [IFM Exam Formula Sheet](/resources/actuarial_resources/MFE - Formula Sheet.pdf)
+
+<h2>Interactive Python Tutorials</h2>
++ [Tutorial on np.where](np_where)
