@@ -25,7 +25,7 @@
   ol {
     padding: 0;
     list-style: none;
-    font-size: $type-size-3;
+    font-size: $type-size-6;
 
     @include breakpoint($large) {
       float: right;
@@ -341,7 +341,7 @@
       display: inline-block;
       padding: 0.5em 2.5em 0.5em 1em;
       color: $gray;
-      font-size: $type-size-6;
+      font-size: $type-size-3;
       font-weight: bold;
       border: 1px solid $light-gray;
       border-radius: $border-radius;
