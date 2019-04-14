@@ -4,6 +4,8 @@ permalink: /about/
 header:
   image: "/images/iceland.jpg"
 ---
+a
+a
 
 I am an Associate Professor of Mathematics, and the Director of the Division of Mathematics and Computer Science at Lindenwood University.
 
