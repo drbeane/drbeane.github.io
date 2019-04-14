@@ -7,7 +7,7 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-
+/*
 html {
   font-size: 36px; // change to whatever
 
@@ -23,3 +23,4 @@ html {
     font-size: 16px; // change to whatever
   }
 }
+*/
