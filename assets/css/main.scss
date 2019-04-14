@@ -16,7 +16,7 @@ html {
   }
 
   @include breakpoint($large) {
-    font-size: 18px; // change to whatever
+    font-size: 8px; // change to whatever
   }
 
   @include breakpoint($x-large) {
