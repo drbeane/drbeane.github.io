@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /classes/
+permalink: /courses/
 title: "Course Materials"
 author_profile: true
 header:
