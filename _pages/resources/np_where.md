@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /resources/np.where
+permalink: /resources/np_where
 title: "Tutorial on np.where"
 author_profile: true
 header:
-  image: "../../../images/canyonlands.jpg"
+  image: "/images/druidarch.jpg"
 ---
 
 + [DataCamp](example.html)

@@ -7,4 +7,4 @@ header:
   image: "/images/druidarch.jpg"
 ---
 
-+ [Tutorial on np.where](resources/np.where)
++ [Tutorial on np.where](resources/np_where)
