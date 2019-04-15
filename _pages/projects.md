@@ -7,7 +7,9 @@ header:
   image: "/images/quandry.jpg"
 ---
 
+This page will later be used to post projects on which I have worked.
 
+<!---
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
@@ -17,3 +19,4 @@ header:
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
+--->
