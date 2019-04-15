@@ -11,7 +11,7 @@ Here you will find links to courses that I have developed and taught in Actuaria
 
 + [Financial Mathematics](courses/mth324/financial_math.md)
 + [Models for Financial Economics](courses/mth326/mfe.md)
-+ [Theory of Probability](courses/mth341/mth341.md)
++ [Theory of Probability](courses/mth341/probability.md)
 + [Regression Analysis](courses/mth345/regression.md)
 + [Introduction to Python](courses/dsci110/python.md)
 + [Machine Learning](courses/dsci356/ml.md)
