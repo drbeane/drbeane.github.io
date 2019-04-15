@@ -7,8 +7,8 @@ header:
   image: "/images/druidarch.jpg"
 ---
 
+<!---
 <h2>Data Science Resources</h2>
-
 + [General R Resources](/resources/r_programming.md)
 + [General Python Resources](/resources/r_programming.md)
 + [Regression Analysis](/resources/regression.md)
@@ -16,7 +16,7 @@ header:
 + [Deep Learning](/resources/deep_learning.md)
 + [Data Visualization](/resources/data_vis.md)
 + [Text Mining](/resources/text_mining.md)
-
+--->
 <h2>Actuarial Exam resources</h2>
 
 <b>P Exam</b>
