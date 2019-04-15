@@ -25,6 +25,8 @@ These are resources that I prepared for the courses <b>MTH 32400 - Theory of Fin
 + [FM Exam Formula Sheet](/resources/actuarial_resources/FM - Formula Sheet.pdf)
 + [FM Exam Flash Cards](/resources/actuarial_resources/FM - Flash Cards.pdf)
 
+I have also created a homework system for use in this course. The system consists of over 400 algorithmically generated multiple choice problems and is intended to provide students with a means of practicing problems similar to those that they might find on the FM exam. I will later post documents providing samples of the types of problems found in this homework system.
+
 <!---
 <b>Homework Keys</b>
 + [Homework Keys](mth324/keys)
