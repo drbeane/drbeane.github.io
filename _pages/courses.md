@@ -7,6 +7,7 @@ header:
   image: "../../../images/canyonlands.jpg"
 ---
 These are some classes.
+a
 
 + [Financial Mathematics](courses/mth324/financial_math.md)
 + [Models for Financial Economics](courses/mth326/mfe.md)
