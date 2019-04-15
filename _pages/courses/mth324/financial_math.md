@@ -26,4 +26,4 @@ These are resources that I prepared for the courses <b>MTH 32400 - Theory of Fin
 + [FM Exam Flash Cards](/resources/actuarial_resources/FM - Flash Cards.pdf)
 
 <b>Homework Keys</b>
-+ [Homework Keys](Keys)
++ [Homework Keys](mth324/keys)
