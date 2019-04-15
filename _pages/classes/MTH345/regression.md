@@ -19,12 +19,12 @@ header:
 + [10 - Hypothesis Tests](10 - Hypothesis Tests.nb.html)
 + [11 - Prediction and Confidence Intervals](11 - Prediction Intervals.nb.html)
 + [12 - Example of Prediction and Confidations Intervals](12 - Example.nb.html)
-+ [13 - Log Transformations (pt1)](13 - Log Transformations (pt1).nb.html)
-+ [14 - Log Transformations (pt2)](14 - Log Transformations (pt2).nb.html)
-+ [15 - Log Transformations (Diamonds)](15 - Log Transformations (Diamonds).nb.html)
++ [13 - Log Transformations (pt1)](13 - Log Transformations - pt1.nb.html)
++ [14 - Log Transformations (pt2)](14 - Log Transformations - pt2.nb.html)
++ [15 - Log Transformations (Diamonds)](15 - Log Transformations - Diamonds.nb.html)
 + [16 - Intro to Multiple Regression](16 - Intro to Multiple Regression.nb.html)
 + [17 - Adjusted r-Squared](17 - Adjusted r-Squared.html)
-+ [18 - Example (Galton Data)](18 - Example (Galton Data).nb.html)
++ [18 - Example (Galton Data)](18 - Example - Galton Data.nb.html)
 + [19 - Qualitative Predictors](19 - Qualitative Predictors.nb.html)
 + [20 - Best Subset Selection](20 - Best Subset Selection.nb.html)
 + [21 - Stepwise Variable Selection](21 - Stepwise Variable Selection.nb.html)
@@ -33,9 +33,3 @@ header:
 + [24 - Lasso and Ridge](24 - Lasso and Ridge.nb.html)
 + [25 - Logistic Regression](25 - Logistic Regression.nb.html)
 + [26 - Multinomial Logistic Regression](26 - Multinomial Logistic Regression.nb.html)
-
-
-
-
-
-
