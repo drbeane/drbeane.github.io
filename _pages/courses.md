@@ -8,9 +8,9 @@ header:
 ---
 These are some classes.
 
-+ [Financial Mathematics](classes/mth324/financial_math.md)
-+ [Models for Financial Economics](classes/mth326/mfe.md)
-+ [Theory of Probability](classes/mth341.md)
-+ [Regression Analysis](classes/mth345/regression.md)
-+ [Introduction to Python](classes/dsci110/python.md)
-+ [Machine Learning](classes/dsci356/ml.md)
++ [Financial Mathematics](courses/mth324/financial_math.md)
++ [Models for Financial Economics](courses/mth326/mfe.md)
++ [Theory of Probability](courses/mth341.md)
++ [Regression Analysis](courses/mth345/regression.md)
++ [Introduction to Python](courses/dsci110/python.md)
++ [Machine Learning](courses/dsci356/ml.md)

@@ -6,6 +6,8 @@ header:
   image: "../../../images/canyonlands.jpg"
 ---
 
+On this page you will find html renders of Jupyter notebooks that I created for lectures that I gave in the course DSCI 11000 - Introduction Python for Data Science.
+
 + [01 - Arithmetic and Variables](01 - Arithmetic and Variables.html)
 + [02 - Strings](02 - Strings.html)
 + [03 - Boolean Variables](03 - Boolean Variables.html)
@@ -23,4 +25,3 @@ header:
 + [15 - Combat Simulator](15 - Combat Simulator.html)
 + [16 - Linear Regression Class](16 - Linear Regression Class.html)
 + [17 - Julia Sets](17 - Julia Sets.html)
-
