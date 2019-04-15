@@ -6,7 +6,7 @@ header:
   image: "/images/canyonlands.jpg"
 ---
 
-This page contains links to html renders of Jupyter Notebooks that I created for the purpose of delivering lectures in the course <b>DSCI 35600 - Machine Learning</b>. This is a course that I developed from scratch.
+This page contains links to html renders of Jupyter Notebooks that I created for my lectures in the course <b>DSCI 35600 - Machine Learning</b>. This is a course that I developed from scratch.
 
 <b>Lecture Notebooks</b>
 + [01 - Introduction to Machine Learning](01 - Introduction to Machine Learning.html)
