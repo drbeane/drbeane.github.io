@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Python"
 layout: archive
-permalink: /classes/python
+permalink: /courses/python
 header:
   image: "../../../images/canyonlands.jpg"
 ---
