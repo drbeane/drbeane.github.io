@@ -1,11 +1,14 @@
 ---
 title: "Probability Theory"
 layout: archive
-permalink: /classes/probability
+permalink: /courses/probability
 header:
   image: "/images/canyonlands.jpg"
 ---
 
+This page contains resources that I developed for <b>MTH 34100 - Probability and Mathematical Statistics I</b>, which is intended to prepare students for the Society of Actuaries P Exam. For this course, I have created a system of algorithmic homework problems. The purpose of this homework system is to provide students with a lot of practice in solving questions similar to what they would encounter on Exam P. Below you will find copies of solution keys that I provide to the students. These keys show worked out solutions for sample versions of each of the problems in the homework system. You will also find a formula sheet and a set of flash cards that I created for Exam P.
+
+<b>Homework Keys</b>
 + [HW 2.1 Key](HW 2.1 Key.pdf)
 + [HW 2.2 Key](HW 2.2 Key.pdf)
 + [HW 2.3 Key](HW 2.3 Key.pdf)
@@ -35,3 +38,7 @@ header:
 + [HW 5.7 Key](HW 5.7 Key.pdf)
 + [HW 5.8 Key](HW 5.8 Key.pdf)
 + [HW 6.4 Key](HW 6.4 Key.pdf)
+
+<b>Additional Resources</b>
++ [P Exam Formula Sheet](/resources/actuarial_resources/P - Formula Sheet.pdf)
++ [P Exam Flash Cards](/resources/actuarial_resources/P - Flash Cards.pdf)

@@ -8,10 +8,6 @@ header:
 
 These are resources that I prepared for the courses <b>MTH 32400 - Theory of Financial Mathematics I</b> and <b>MTH 32500 - Theory of Financial Mathematics II</b>. These courses are intended to prepare students for the Society of Actuaries FM Exam. Below you will find 126 pages of lecture notes that I wrote for use in these classes, as well as a formula sheet and flash cards that I provided to the students.
 
-<b>FM Exam</b>
-+ [FM Exam Formula Sheet](/resources/actuarial_resources/FM - Formula Sheet.pdf)
-+ [FM Exam Flash Cards](/resources/actuarial_resources/FM - Flash Cards.pdf)
-
 <b>Lecture Notes</b>
 + [All Chapters](FM Notes.pdf)
 + [Chapter 01 - The Measurement of Interest](FM - Chapter 01.pdf)
@@ -24,3 +20,10 @@ These are resources that I prepared for the courses <b>MTH 32400 - Theory of Fin
 + [Chpater 08 - Introduction to Options](FM - Chapter 08.pdf)
 + [Chpater 09 - Swaps](FM - Chapter 09.pdf)
 + [Chapter 10 - Binomial Trees](FM - Chapter 10.pdf)
+
+<b>Additional Resources</b>
++ [FM Exam Formula Sheet](/resources/actuarial_resources/FM - Formula Sheet.pdf)
++ [FM Exam Flash Cards](/resources/actuarial_resources/FM - Flash Cards.pdf)
+
+<b>Homework Keys</b>
++ [Homework Keys](Keys)
