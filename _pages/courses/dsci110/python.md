@@ -6,7 +6,7 @@ header:
   image: "../../../images/canyonlands.jpg"
 ---
 
-On this page you will find html renders of Jupyter notebooks that I created for lectures that I gave in the course DSCI 11000 - Introduction Python for Data Science.
+On this page you will find html renders of Jupyter notebooks that I created for lectures that I gave in the course </b>DSCI 11000 - Introduction Python for Data Science</b>.
 
 + [01 - Arithmetic and Variables](01 - Arithmetic and Variables.html)
 + [02 - Strings](02 - Strings.html)

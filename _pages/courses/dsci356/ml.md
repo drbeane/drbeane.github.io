@@ -6,13 +6,9 @@ header:
   image: "/images/canyonlands.jpg"
 ---
 
-This page contains links to html renders of Jupyter Notebooks that I created for the purpose of delivering lectures in the course DSCI 35600 - Machine Learning. This is a course that I developed from scratch.
+This page contains links to html renders of Jupyter Notebooks that I created for the purpose of delivering lectures in the course <b>DSCI 35600 - Machine Learning</b>. This is a course that I developed from scratch.
 
-The textbooks that I used in this course were:
-* [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)
-* [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
-
-<h1>Lecture Notebooks</h1>
+<b>Lecture Notebooks</b>
 + [01 - Introduction to Machine Learning](01 - Introduction to Machine Learning.html)
 + [02 - Overview of Supervised Learning](02 - Overview of Supervised Learning.html)
 + [03 - Linear Regression](03 - Linear Regression.html)
@@ -39,3 +35,8 @@ The textbooks that I used in this course were:
 + [24 - Principal Component Analysis](24 - PCA.html)
 + [25 - PCA for Facial Recognition](25 - PCA for Facial Recognition.html)
 + [26 - PCA Interpretation](26 - PCA Interpretation.html)
+
+<b>Other Resources</b>
+The textbooks that I used in this course were:
+* [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)
+* [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)

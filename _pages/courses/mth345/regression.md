@@ -6,7 +6,9 @@ header:
   image: "../../../images/canyonlands.jpg"
 ---
 
+These are the lecture notes that I used in <b>MTH 34500 - Regression Analysis</b> during the most recent semester in which I taught this course. These resources are html renders of R Notebooks that were created using R studio. Some of them, especially the later ones, require some revision and cleaning, and could benefit from some additional exposition.
 
+<b>Lecture Notebooks</b>
 + [01 - Intro to Regression](01 - Intro to Regression.nb.html)
 + [02 - Variance and Standard Deviation](02 - Variance and Standard Deviation.nb.html)
 + [03 - Least Squares Regression](03 - Least Squares Regression.nb.html)
@@ -18,7 +20,7 @@ header:
 + [09 - Model Assumptions](09 - Model Assumptions.nb.html)
 + [10 - Hypothesis Tests](10 - Hypothesis Tests.nb.html)
 + [11 - Prediction and Confidence Intervals](11 - Prediction Intervals.nb.html)
-+ [12 - Example of Prediction and Confidations Intervals](12 - Example.nb.html)
++ [12 - Example of Prediction and Confidence Intervals](12 - Example.nb.html)
 + [13 - Log Transformations (pt1)](13 - Log Transformations - pt1.nb.html)
 + [14 - Log Transformations (pt2)](14 - Log Transformations - pt2.nb.html)
 + [15 - Log Transformations (Diamonds)](15 - Log Transformations - Diamonds.nb.html)
