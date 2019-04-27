@@ -66,5 +66,3 @@ table {
         </td>
     </tr>
 </table>
-
-asd
