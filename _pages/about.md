@@ -51,10 +51,3 @@ After completing my Ph.D., I spent two years as a Lecturer in the Mathematics De
         </td>
     </tr>
 </table>
-
-asdf
-asdf
-
-aa|bb|cc
---|--|--
-ee|ff|gg
