@@ -17,7 +17,7 @@ After completing my Ph.D., I spent two years as a Lecturer in the Mathematics De
 
 <h2>Academic Interests</h2>
 
-<table>
+<table border="0">
     <tr>
         <td>
 * Machine Learning
