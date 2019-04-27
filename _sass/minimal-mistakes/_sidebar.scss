@@ -36,7 +36,7 @@
     }
   }
 
-  @include breakpoint($x-large) {
+  @include breakpoint($medium) {
     width: calc(#{$right-sidebar-width} - 1em);
   }
 
@@ -63,7 +63,7 @@
 
   img {
     width: 100%;
-    
+
     &.emoji {
       width: 20px;
       height: 20px;
@@ -92,7 +92,7 @@
     }
   }
 
-  @include breakpoint($x-large) {
+  @include breakpoint($medium) {
     width: $right-sidebar-width;
     margin-right: -1 * $right-sidebar-width;
   }
@@ -105,7 +105,7 @@
     margin-right: 0;
   }
 
-  @include breakpoint($x-large) {
+  @include breakpoint($medium) {
     margin-right: 0;
   }
 }
@@ -310,9 +310,8 @@
     }
   }
 
-  @include breakpoint($x-large) {
+  @include breakpoint($medium) {
     width: initial;
     margin-right: initial;
   }
 }
-
