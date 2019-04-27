@@ -20,16 +20,16 @@ After completing my Ph.D., I spent two years as a Lecturer in the Mathematics De
 <table border="0">
     <tr>
         <td>
-* Machine Learning
-* Deep Learning
-* Statistics
-* Data Visualization    
+<li> Machine Learning
+<li> Deep Learning
+<li> Statistics
+<li> Data Visualization    
         </td>
         <td>
-* Financial Mathematics
-* Topology
-* Dynamical Systems
-* Abstract Algebra  
+<li> Financial Mathematics
+<li> Topology
+<li> Dynamical Systems
+<li> Abstract Algebra  
         </td>
     </tr>
 </table>
@@ -40,14 +40,14 @@ After completing my Ph.D., I spent two years as a Lecturer in the Mathematics De
 <table>
     <tr>
         <td>
-        * Traveling
-        * Rock climbing
-        * Distance running
+<li> Traveling
+<li> Rock climbing
+<li> Distance running
         </td>
         <td>
-        * Board games
-        * Rubik's cubes
-        * Good television
+            <li> Board games
+            <li> Rubik's cubes
+            <li> Good television
         </td>
     </tr>
 </table>
