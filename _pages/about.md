@@ -18,3 +18,6 @@ My academic interests include Machine Learning, Data Visualization, Financial Ma
 My hobbies include traveling, running, rock climbing, board games, Rubik's cubes, and watching television.
 
 [Curriculum Vitae](/misc/cv.pdf)
+
+image
+![](/images/icons/rubik.png)
