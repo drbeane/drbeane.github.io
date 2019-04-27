@@ -125,8 +125,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-linkedin"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/robbie-beane-baa384b0/"
 
 # Site Footer
