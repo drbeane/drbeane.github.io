@@ -6,8 +6,9 @@ table {
   margin-bottom: 1em;
   width: 100%;
   font-family: $global-font-family;
-  font-size: $type-size-6;
+  font-size: $type-size-5;
   border-collapse: collapse;
+  /* font-size was originall ts6 */
 
   & + table {
     margin-top: 1em;
@@ -27,7 +28,8 @@ th {
 
 td {
   padding: 0.5em;
-  border-bottom: 1px solid mix(#000, $border-color, 25%);
+  border-bottom: 0px solid mix(#000, $border-color, 25%);
+  /* border here was orginally 1 px */
 }
 
 tr,
