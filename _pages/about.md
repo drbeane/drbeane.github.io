@@ -20,16 +20,16 @@ After completing my Ph.D., I spent two years as a Lecturer in the Mathematics De
 <table border="0">
     <tr>
         <td>
-<li> Machine Learning
-<li> Deep Learning
-<li> Statistics
-<li> Data Visualization    
+            <li> Machine Learning
+            <li> Deep Learning
+            <li> Statistics
+            <li> Data Visualization    
         </td>
         <td>
-<li> Financial Mathematics
-<li> Topology
-<li> Dynamical Systems
-<li> Abstract Algebra  
+            <li> Financial Mathematics
+            <li> Topology
+            <li> Dynamical Systems
+            <li> Abstract Algebra  
         </td>
     </tr>
 </table>
@@ -51,3 +51,12 @@ After completing my Ph.D., I spent two years as a Lecturer in the Mathematics De
         </td>
     </tr>
 </table>
+
+
+assf
+
+
+aa|bb|cc
+--|--|--
+* d |ff|gg
+* d | df | df 
