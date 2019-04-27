@@ -66,12 +66,3 @@ table {
         </td>
     </tr>
 </table>
-
-
-assf
-
-
-aa|bb|cc
---|--|--
-* d |ff|gg
-* d | df | df
