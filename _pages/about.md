@@ -45,7 +45,6 @@ table {
     </tr>
 </table>
 
-adf
 
 <h2>Hobbies and Pastimes</h2>
 
