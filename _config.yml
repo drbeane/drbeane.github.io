@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Robbie Beane"
+title                    : "Misfired Neurons"
 title_separator          : "-"
 name                     : "Robbie Beane"
 description              : "GitHub  Page for Robbie Beane"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Robbie Beane"
   avatar           : "/images/bio-photo.jpg"
-  bio              : "Associate Professor of Mathematics<p> | Director of Division of Mathematics and Computer Science | Lindenwood University"
+  bio              : "Associate Professor of Mathematics<br> Director of Division of Mathematics and Computer Science<br>Lindenwood University"
   location         : "St. Louis, MO"
   email            :
   links:
