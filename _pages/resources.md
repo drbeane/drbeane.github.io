@@ -9,8 +9,8 @@ header:
 
 <!---
 <h2>Data Science Resources</h2>
-+ [General R Resources](/resources/r_programming.md)
-+ [General Python Resources](/resources/r_programming.md)
++ [General R Resources](/resources/r.md)
++ [General Python Resources](/resources/python.md)
 + [Regression Analysis](/resources/regression.md)
 + [Machine Learning](/resources/machine_learning.md)
 + [Deep Learning](/resources/deep_learning.md)
