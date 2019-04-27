@@ -34,19 +34,27 @@ After completing my Ph.D., I spent two years as a Lecturer in the Mathematics De
     </tr>
 </table>
 
+
+<h2>Hobbies and Pastimes</h2>
+
+<table>
+    <tr>
+        <td>
+        * Traveling
+        * Rock climbing
+        * Distance running
+        </td>
+        <td>
+        * Board games
+        * Rubik's cubes
+        * Good television
+        </td>
+    </tr>
+</table>
+
 asdf
 asdf
 
 aa|bb|cc
 --|--|--
 ee|ff|gg
-
-
-
-
-My hobbies include traveling, running, rock climbing, board games, Rubik's cubes, and watching television.
-
-
-
-image
-![](/images/icons/rubik.png)
