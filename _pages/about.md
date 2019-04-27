@@ -21,14 +21,20 @@ After completing my Ph.D., I spent two years as a Lecturer in the Mathematics De
     <tr>
         <td>
             * Machine Learning
+
             * Deep Learning
+
             * Statistics
+
             * Data Visualization    
         </td>
         <td>
             * Financial Mathematics
+
             * Topology
+
             * Dynamical Systems
+            
             * Abstract Algebra  
         </td>
     </tr>
