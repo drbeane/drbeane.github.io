@@ -19,22 +19,30 @@ After completing my Ph.D., I spent two years as a Lecturer in the Mathematics De
 
 <table>
     <tr>
-        <td>asd</td>
-        <td>asdf</td>
+        <td>
+        * Machine Learning
+        * Dee[ Learning]
+        * Statistics
+        * Data Visualization    
+        </td>
+        <td>
+        * Financial Mathematics
+        * Topology
+        * Dynamical Systems
+        * Abstract Algebra  
+        </td>
     </tr>
 </table>
 
+asdf
+asdf
 
 aa|bb|cc
 --|--|--
 ee|ff|gg
 
 
-* Machine Learning
-* Data Visualization
-* Financial Mathematics
-* Statistics, Topology
-* Dynamical Systems, and Abstract Algebra.  
+
 
 My hobbies include traveling, running, rock climbing, board games, Rubik's cubes, and watching television.
 
