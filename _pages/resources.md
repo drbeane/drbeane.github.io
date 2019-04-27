@@ -18,8 +18,6 @@ header:
 + [Text Mining](/resources/text_mining.md)
 --->
 
-aa
-
 <h2>Actuarial Exam resources</h2>
 
 <b>P Exam</b>
