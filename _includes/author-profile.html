@@ -26,11 +26,9 @@
     </div>
   {% endif %}
 
-blah
 
   <div class="author__content">
     {% if author.home %}
-      blah
       <a href="{{ author_link }}"><h3 class="author__name" itemprop="name">{{ author.name }}</h3></a>
     {% else %}
       <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
@@ -69,6 +67,7 @@ blah
 
       {% if author.email %}
         <li>
+            blah
           <a href="mailto:{{ author.email }}">
             <meta itemprop="email" content="{{ author.email }}" />
             <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
