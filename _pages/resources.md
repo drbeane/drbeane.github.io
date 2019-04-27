@@ -6,7 +6,7 @@ author_profile: true
 header:
   image: "/images/druidarch.jpg"
 ---
-
+aa
 <!---
 <h2>Data Science Resources</h2>
 + [General R Resources](/resources/r_programming.md)
