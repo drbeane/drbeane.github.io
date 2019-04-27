@@ -20,34 +20,43 @@ After completing my Ph.D., I spent two years as a Lecturer in the Mathematics De
 <table border="0">
     <tr>
         <td>
-            <li> Machine Learning
-            <li> Deep Learning
-            <li> Statistics
-            <li> Data Visualization    
+            <ul>
+                <li>Machine Learning</li>
+                <li>Deep Learning</li>
+                <li>Statistics</li>
+                <li>Data Visualization</li>
+            </ul>
         </td>
         <td>
-            <li> Financial Mathematics
-            <li> Topology
-            <li> Dynamical Systems
-            <li> Abstract Algebra  
+            <ul>
+                <li>Financial Mathematics</li>
+                <li>Topology</li>
+                <li>Dynamical Systems</li>
+                <li>Abstract Algebra</li>  
+            </ul>
         </td>
     </tr>
 </table>
 
+adf
 
 <h2>Hobbies and Pastimes</h2>
 
 <table>
     <tr>
         <td>
-<li> Traveling
-<li> Rock climbing
-<li> Distance running
+            <ul>
+                <li>Traveling</li>
+                <li>Rock climbing</li>
+                <li>Distance running</li>
+            </ul>
         </td>
         <td>
-            <li> Board games
-            <li> Rubik's cubes
-            <li> Good television
+            <ul>
+                <li>Board games</li>
+                <li>Rubik's cubes</li>
+                <li>Good television</li>
+            </ul>
         </td>
     </tr>
 </table>
@@ -59,4 +68,4 @@ assf
 aa|bb|cc
 --|--|--
 * d |ff|gg
-* d | df | df 
+* d | df | df
