@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Robbie Beane"
   avatar           : "/images/bio-photo.jpg"
-  bio              : "Associate Professor of Mathematics and Data Science | Director of Division of Mathematics and Computer Science | Lindenwood University"
+  bio              : "Associate Professor of Mathematics<p> | Director of Division of Mathematics and Computer Science | Lindenwood University"
   location         : "St. Louis, MO"
   email            :
   links:
