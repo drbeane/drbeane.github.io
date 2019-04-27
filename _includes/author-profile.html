@@ -26,7 +26,7 @@
     </div>
   {% endif %}
 
-foodssd
+food
 
   <div class="author__content">
     {% if author.home %}
@@ -68,8 +68,9 @@ foodssd
 
       {% if author.email %}
         <li>
-          <a href="mailto:rbeane@lindenwood.edu">
-            blah
+          <a href="mailto:{{ author.email }}">
+            <meta itemprop="email" content="{{ author.email }}" />
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
           </a>
         </li>
       {% endif %}

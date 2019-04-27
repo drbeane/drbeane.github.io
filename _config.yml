@@ -107,12 +107,12 @@ author:
   location         : "St. Louis, MO"
   email            :
   links:
-    - label: "Email"
+    - label: "myEmail"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:rbeane@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
