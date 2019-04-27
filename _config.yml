@@ -107,7 +107,7 @@ author:
   location         : "St. Louis, MO"
   email            :
   links:
-    - label: "myEmail"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:rbeane@gmail.com
     - label: "Website"
