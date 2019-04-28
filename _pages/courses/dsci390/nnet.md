@@ -1,7 +1,7 @@
 ---
-title: "Machine Learning"
+title: "Neural Networks"
 layout: archive
-permalink: /courses/ml
+permalink: /courses/nnet
 header:
   image: "/images/canyonlands.jpg"
 ---
