@@ -12,11 +12,15 @@ header:
 + [General R Resources](/resources/dsci_resources/r.md)
 + [General Python Resources](/resources/dsci_resources/python.md)
 + [Mathematical Foundations](/resources/dsci_resources/math.md)
-+ [Regression Analysis](/resources/dsci_resources/regression.md)
 + [Machine Learning](/resources/dsci_resources/machine_learning.md)
 + [Deep Learning](/resources/dsci_resources/deep_learning.md)
++ [Reinforcement Learning](/resources/dsci_resources/reinforcement_learning.md)
++ [Text Mining and NLP](/resources/dsci_resources/nlp.md)
+
+<!--
++ [Regression Analysis](/resources/dsci_resources/regression.md)
 + [Data Visualization](/resources/dsci_resources/data_vis.md)
-+ [Text Mining](/resources/dsci_resources/text_mining.md)
+-->
 
 <h2>Actuarial Exam resources</h2>
 
