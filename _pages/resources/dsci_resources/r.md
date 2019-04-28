@@ -1,14 +1,11 @@
 ---
 layout: archive
 permalink: /resources/r
-title: "R Resources"
+title: "General R Resources"
 author_profile: true
 header:
   image: "/images/druidarch.jpg"
 ---
-
-
-<h2>General R Resources</h2>
 
 <b>Books</b>
 + [R for Everyone](https://www.amazon.com/Everyone-Advanced-Analytics-Graphics-Addison-Wesley/dp/013454692X/ref=sr_1_1?keywords=r+for+everyone&qid=1556410843&s=gateway&sr=8-1), Jared Lander
