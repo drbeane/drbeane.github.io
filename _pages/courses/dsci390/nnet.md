@@ -6,37 +6,33 @@ header:
   image: "/images/canyonlands.jpg"
 ---
 
-This page contains links to html renders of Jupyter Notebooks that I created for my lectures in the course <b>DSCI 35600 - Machine Learning</b>. This is a course that I developed from scratch.
+This page contains links to html renders of Jupyter Notebooks and Google Colab notebooks that I created for my lectures in the course <b>DSCI 39001 - Neural Networks</b>. These notes were used during the first time I taught the course. I would certainly change several things the next time I taught the course. I would also consider moving all of the lecture material into Google Colab.
+
+**Disclaimer:** These notebooks are not intended to be a standalone resource for machine learning. These were created to supplement lecture presentations. Many of the lessons (especially the later ones) would benefit from additional exposition. I hope to eventually develop these into more of a standalone resource. 
 
 <b>Lecture Notebooks</b>
 + [01 - Introduction to Machine Learning](01 - Introduction to Machine Learning.html)
-+ [02 - Overview of Supervised Learning](02 - Overview of Supervised Learning.html)
-+ [03 - Linear Regression](03 - Linear Regression.html)
-+ [04 - Testing LinReg Class](04 - Testing LinReg Class.html)
-+ [05 - Polynomial Regression](05 - Polynomial Regression.html)
-+ [06 - Encoding Categorical Variables](06 - Encoding Categorical Variables.html)
-+ [07 - Feature Scaling](07 - Feature Scaling.html)
-+ [08 - L1 and L2 Regularization](08 - L1 and L2 Regularization.html)
-+ [09 - Classification Metrics](09 - Classification Metrics.html)
-+ [10 - Logistic Regression](10 - Logistic Regression.html)
-+ [11 - KNN Classifier](11 - KNN Classifier.html)
-+ [12 - Titanic Dataset](12 - Titanic Dataset.html)
-+ [13 - Decision Tree Classifier](13 - Decision Tree Classifier.html)
-+ [14 - Decision Tree - Titanic](14 - Decision Tree - Titanic.html)
-+ [15 - Voting Classifiers](15 - Voting Classifiers.html)
-+ [16 - Voting Classifier - Titanic](16 - Voting Classifier - Titanic.html)
-+ [17 - Random Forests](17 - Random Forests.html)
-+ [18 - Support Vector Machines - Part 1](18 - Support Vector Machines - Part 1.html)
-+ [19 - Support Vector Machines - Part 2](19 - Support Vector Machines - Part 2.html)
-+ [20 - Support Vector Machines - Part 3](20 - Support Vector Machines - Part 3.html)
-+ [21 - Decision Tree Structure](21 - Decision Tree Structure.html)
-+ [22 - Cross Validation](22 - Cross Validation.html)
-+ [23 - Grid Search](23 - Grid Search.html)
-+ [24 - Principal Component Analysis](24 - PCA.html)
-+ [25 - PCA for Facial Recognition](25 - PCA for Facial Recognition.html)
-+ [26 - PCA Interpretation](26 - PCA Interpretation.html)
-
-<b>Other Resources</b>
-The textbooks that I used in this course were:
-* [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)
-* [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
++ [02 - The Artificial Neuron](02 - The Artificial Neuron.html)
++ [03 - Introduction to Neural Networks](03 - Introduction to Neural Networks.html)
++ [04 - Designing Neural Networks](04 - Designing Neural Networks.html)
++ [05 - Forward Propagation with Matrices](05 - Forward Propagation with Matrices.html)
++ [06 - MNIST Dataset](06 - MNIST Dataset.html)
++ [07 - Regression and Regularization](07 - Regression and Regularization.html)
++ [08 - MNIST CNN](08 - MNIST CNN.html)
++ [09 - Fashion MNIST](09 - Fashion MNIST.html)
++ [10 - Google Colab Test](https://drive.google.com/drive/u/5/folders/1P22M7dleoaDvFSAlGa06G3IyOo_bWyhN)
++ [11 - Training a CNN using GPU](https://drive.google.com/drive/u/5/folders/1mgqxkR7yiEsGDvjY3u-_DIbX7G3dYSvA)
++ [12 - CIFAR10](https://drive.google.com/drive/u/5/folders/1JQxEI9OKMP0ChiuWIKJIxnnONhV-LXw3)
++ [13 - Data Generators](https://drive.google.com/drive/u/5/folders/1036zVBirVMBKhjKEjJyb7gzrGwsUjZTP)
++ [14 - Fit Generator](https://drive.google.com/drive/u/5/folders/1VCot4DNaIi7DwBrpSigNG99msxKy8lLZ)
++ [15 - Fine-Tuning a CNN](https://drive.google.com/drive/u/5/folders/1JVXKI0hCfIjUXPJu17dUeamK4nN32ItE)
++ [16 - Data Augmentation](https://drive.google.com/drive/u/5/folders/1lZ5cIBlvJhRlZYRz3wPsBz5gz0xpr5Rq)
++ [17 - Transfer Learning](https://drive.google.com/drive/u/5/folders/1VmW_GkohED6P0B8V0JOYiWZMYNYuPrdQ)
++ [18 - Back Propagation](https://drive.google.com/drive/u/5/folders/1Ah0jVINsC90YhF0MXyiyIuYjVzmwz1KC)
++ [19 - Recurrent Neural Networks](19 - Recurrent Neural Networks.html)
++ [20 - RNN for Time Series](20 - RNN for Time Series.html)
++ [21 - LSTM Example](21 - LSTM Example.html)
++ [22 - Sentiment Analysis with RNNs](https://drive.google.com/drive/u/5/folders/1dTP2l7OFf4LTY7Uq7bBFLkx8s_gVu09W)
++ [23 - Word Embeddings](https://drive.google.com/drive/u/5/folders/1rxDgAY0tg-24sI6_MuB-TrqR8CL3CtKl)
++ [24 - GloVe](https://drive.google.com/drive/u/5/folders/1RjJtWwvubNC89pr-9T8YsWFr8EiMd1KW)
++ [25 - Text Generation](https://drive.google.com/drive/u/5/folders/1gMeGeNnKpLFU0t1k83HEMKceKDYK84yM)

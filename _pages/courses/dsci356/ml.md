@@ -37,6 +37,11 @@ This page contains links to html renders of Jupyter Notebooks that I created for
 + [24 - Principal Component Analysis](24 - PCA.html)
 + [25 - PCA for Facial Recognition](25 - PCA for Facial Recognition.html)
 + [26 - PCA Interpretation](26 - PCA Interpretation.html)
++ [27 - K-Means Clustering](27 - K-Means Clustering.html)
++ [28 - K-Means for Image Compression](28 - K-Means for Image Compression.html)
++ [29 - The Artificial Neuron](29 - The Artificial Neuron.html)
++ [30 - Introduction to Neural Networks](30 - Introduction to Neural Networks.html)
++ [31 - MNIST Dataset](31 - MNIST Dataset.html)
 
 <b>Other Resources</b>
 The textbooks that I used in this course were:
