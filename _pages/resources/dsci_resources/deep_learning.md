@@ -15,7 +15,7 @@ header:
 + [CSC 321: Intro to Neural Networks and Machine Learning](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/), University of Toronto
 + [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/), Nielsen
 
-<b>Videos and Online Courses</a>
+<b>Videos and Online Courses</b>
 + [Fast.ai](https://www.fast.ai/)
 + [DeepLearning.ai](https://www.deeplearning.ai/)
 + [CS231n: CNNs for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), Stanford

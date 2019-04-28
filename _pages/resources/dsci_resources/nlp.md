@@ -15,5 +15,5 @@ header:
 <b>Articles and Notes</b>
 + [CS224n: NLP with Deep Learning](http://web.stanford.edu/class/cs224n/), Stanford
 
-<b>Videos and Online Courses</a>
+<b>Videos and Online Courses</b>
 + [CS 11-747: Neural Networks for NLP](https://www.youtube.com/playlist?list=PLbdKUKMAnh9Qqs5uwEBDfRb_L3YaLbRKq), Carnegie Mellon

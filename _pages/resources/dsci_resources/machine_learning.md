@@ -17,6 +17,6 @@ header:
 + [Stanford CS 229 Notes](http://cs229.stanford.edu/notes/), Ng
 
 
-<b>Videos and Online Courses</a>
+<b>Videos and Online Courses</b>
 + [Mathematical Monk: Machine Learning](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 + [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning), Ng

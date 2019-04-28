@@ -22,5 +22,5 @@ header:
 + [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf), Petersen and Pedersen
 + [The Probability and Statistics Cookbook](http://statistics.zone/), Vallentin
 
-<b>Tutorial Videos</a>
+<b>Tutorial Videos</b>
 + [Mathematical Monk: Probability Primer](https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4)
