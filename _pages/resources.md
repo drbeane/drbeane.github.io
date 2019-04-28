@@ -7,16 +7,16 @@ header:
   image: "/images/druidarch.jpg"
 ---
 
-<!---
+
 <h2>Data Science Resources</h2>
-+ [General R Resources](/resources/r.md)
-+ [General Python Resources](/resources/python.md)
-+ [Regression Analysis](/resources/regression.md)
-+ [Machine Learning](/resources/machine_learning.md)
-+ [Deep Learning](/resources/deep_learning.md)
-+ [Data Visualization](/resources/data_vis.md)
-+ [Text Mining](/resources/text_mining.md)
---->
++ [General R Resources](/resources/dsci_resources/r.md)
++ [General Python Resources](/resources/dsci_resources/python.md)
++ [Mathematical Foundations](/resources/dsci_resources/math.md)
++ [Regression Analysis](/resources/dsci_resources/regression.md)
++ [Machine Learning](/resources/dsci_resources/machine_learning.md)
++ [Deep Learning](/resources/dsci_resources/deep_learning.md)
++ [Data Visualization](/resources/dsci_resources/data_vis.md)
++ [Text Mining](/resources/dsci_resources/text_mining.md)
 
 <h2>Actuarial Exam resources</h2>
 
