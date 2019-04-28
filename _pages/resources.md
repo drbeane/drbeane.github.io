@@ -35,5 +35,7 @@ header:
 <b>IFM Exam</b>
 + [IFM Exam Formula Sheet](/resources/actuarial_resources/MFE - Formula Sheet.pdf)
 
+<!--
 <h2>Interactive Python Tutorials</h2>
 + [Tutorial on np.where](np_where)
+-->
