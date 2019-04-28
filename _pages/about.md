@@ -48,6 +48,7 @@ After completing my Ph.D., I spent two years as a Lecturer in the Mathematics De
                 <li>Traveling</li>
                 <li>Rock climbing</li>
                 <li>Distance running</li>
+                <li>Vegan food</li>
             </ul>
         </td>
         <td>
@@ -55,6 +56,7 @@ After completing my Ph.D., I spent two years as a Lecturer in the Mathematics De
                 <li>Board games</li>
                 <li>Rubik's cubes</li>
                 <li>Good television</li>
+                <li>History and Politics</li>
             </ul>
         </td>
     </tr>
