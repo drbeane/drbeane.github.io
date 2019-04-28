@@ -21,21 +21,21 @@ Here you will find links to courses that I have developed and taught in Actuaria
 During the last 16 years, I have taught a wide variety of courses, and have continually taught and developed new courses. A list of courses that I have taught is provided here. Courses whose name is followed by an asterisk are courses that I personally created and developed course materials for.
 
 <b>Data Science</b>
-* Intro to Data Science with Python '<dev>'
-* Data Analysis in R <dev>
-* Machine Learning <dev>
-* Neural Networks <dev>
+* Intro to Data Science with Python '\<dev\>'
+* Data Analysis in R * `\<dev\>`
+* Machine Learning `dev`
+* Neural Networks `[dev]`
 
 <b>Probability and Statistics</b>
 * Basic Statistics
 * Statistics for Natural Sciences
-* Regression Analysis +
+* Regression Analysis `<dev>`
 * Probability and Mathematical Statistics I - II
 
 <b>Mathematics</b>
 * College Algebra
 * Pre-Calculus
-* Calculus I -III
+* Calculus I - III
 * Elementary Differential Equations
 * Linear Algebra
 * Introduction to Linear Programming
