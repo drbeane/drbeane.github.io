@@ -8,6 +8,8 @@ header:
 
 On this page you will find html renders of Jupyter notebooks that I created for lectures that I gave in the course <b>DSCI 11000 - Introduction Python for Data Science</b>.
 
+**Disclaimer:** These notebooks are not intended to be a standalone resource for learning Python. These were created to supplement lecture presentations. Many of the lessons (especially the later ones) would benefit from additional exposition. I hope to eventually develop these into more of a standalone resource.  
+
 + [01 - Arithmetic and Variables](01 - Arithmetic and Variables.html)
 + [02 - Strings](02 - Strings.html)
 + [03 - Boolean Variables](03 - Boolean Variables.html)

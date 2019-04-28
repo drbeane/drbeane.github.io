@@ -6,7 +6,9 @@ header:
   image: "../../../images/canyonlands.jpg"
 ---
 
-These are the lecture notes that I used in <b>MTH 34500 - Regression Analysis</b> during the most recent semester in which I taught this course. These resources are html renders of R Notebooks that were created using R studio. Some of them, especially the later ones, require some revision and cleaning, and could benefit from some additional exposition.
+These are the lecture notes that I used in <b>MTH 34500 - Regression Analysis</b> during the most recent semester in which I taught this course. These resources are html renders of R Notebooks that were created using R studio.
+
+**Disclaimer:** These notebooks are not intended to be a standalone resource for learning regression analysis. These were created to supplement lecture presentations. Many of the lessons (especially the later ones) would benefit from additional exposition. I hope to eventually develop these into more of a standalone resource.  
 
 <b>Lecture Notebooks</b>
 + [01 - Intro to Regression](01 - Intro to Regression.nb.html)
