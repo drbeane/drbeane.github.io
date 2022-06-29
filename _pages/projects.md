@@ -14,10 +14,18 @@ Many of these courses I have developed in recent have involved programming. The 
 
 + [Big Data Analytics](courses/dsci417/bigdata.md)
 
-  This course covers the use of Apache Spark for performing distributed data analysis. The course emphasizes the use of PySpark to develop applications within a Databricks environment. Specific topics covered in the course include RDDs, Spark DataFrames, Spark SQL, Machine Learning, and Structured Streaming. 
+  This course covers the use of Apache Spark for performing distributed data analysis. The course emphasizes the use of PySpark to develop applications within a Databricks environment. Specific topics covered in the course include RDDs, Spark DataFrames, Spark SQL, Machine Learning, and Structured Streaming.
 
 + [Python for Data Science](courses/dsci303/python.md)
+
+<ul>
+This course covers the use of Apache Spark for performing distributed data analysis. The course emphasizes the use of PySpark to develop applications within a Databricks environment. Specific topics covered in the course include RDDs, Spark DataFrames, Spark SQL, Machine Learning, and Structured Streaming.
+</ul>
+
 + [Predictive Modeling](courses/dsci412/predmod.md)
+
+> This course covers the use of Apache Spark for performing distributed data analysis. The course emphasizes the use of PySpark to develop applications within a Databricks environment. Specific topics covered in the course include RDDs, Spark DataFrames, Spark SQL, Machine Learning, and Structured Streaming. 
+
 + [Machine Learning](courses/dsci356/ml.md)
 + [Deep Learning](courses/dsci390/nnet.md)
 
