@@ -1,15 +1,18 @@
 ---
-title: "Introduction to Python"
+title: "Python for Data Science"
 layout: archive
 permalink: /courses/python
 header:
   image: "../../../images/canyonlands.jpg"
 ---
 
-On this page you will find html renders of Jupyter notebooks that I developed for use the following courses offered at Maryville University:
-* DSCI 303 - Introduction Python
+This page contains links to html renders of Jupyter notebooks that I developed for use the following courses offered at Maryville University:
++ DSCI 303 - Introduction Python
 + DSCI 503 - Python
-* DSCI 130 - Introduction Programming
++ COSC 130 - Introduction Programming
+
+Each of these three courses includes an introduction to general programming in Python. The courses DSCI 303 and DSCI 503 also cover applications of Python in scientific computing, statistics, machine learning, data analysis, and data visualization. 
+
 
 **Disclaimer:** These notebooks are not intended to be a standalone resource for learning Python. These were created to supplement lecture presentations.   
 
