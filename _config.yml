@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Robbie Beane"
   avatar           : "/images/bio-photo.jpg"
-  bio              : "Assistant Professor of Data Science | Maryville University"
+  bio              : "Assistant Professor of Data Science \n| Maryville University</br>asdf<p>asdf"
   location         : "St. Louis, MO"
   email            :
   links:
