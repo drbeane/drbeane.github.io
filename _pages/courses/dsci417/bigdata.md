@@ -6,7 +6,7 @@ header:
   image: "../../../images/canyonlands.jpg"
 ---
 
-This page contains links to html renders of Databricks notebooks that I developed for the following two courses:
+This page contains links to html renders of Databricks notebooks that I developed in Summer 2020 for the following two courses offered at Maryville University:
 + DSCI 417 - Big Data Analytics (Undergraduate)
 + DSCI 617 - Big Data Analytics (Graduate)
 
