@@ -32,7 +32,7 @@ This page contains links to html renders of Jupyter Notebooks and Google Colab n
 + [19 - Recurrent Neural Networks](19 - Recurrent Neural Networks.html)
 + [20 - RNN for Time Series](20 - RNN for Time Series.html)
 + [21 - LSTM Example](21 - LSTM Example.html)
-+ [22 - Sentiment Analysis with RNNs](https://drive.google.com/drive/u/5/folders/1dTP2l7OFf4LTY7Uq7bBFLkx8s_gVu09W)
++ [22 - Sentiment Analysis with RNNs](https://colab.research.google.com/drive/1RDY1lJpBfeTsphYd8pBRI3YEoDNaoDf0?usp=sharing)
 + [23 - Word Embeddings](https://drive.google.com/drive/u/5/folders/1rxDgAY0tg-24sI6_MuB-TrqR8CL3CtKl)
 + [24 - GloVe](https://drive.google.com/drive/u/5/folders/1RjJtWwvubNC89pr-9T8YsWFr8EiMd1KW)
 + [25 - Text Generation](https://drive.google.com/drive/u/5/folders/1gMeGeNnKpLFU0t1k83HEMKceKDYK84yM)
