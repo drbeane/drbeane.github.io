@@ -28,15 +28,17 @@ Many of these courses I have developed in recent years have involved programming
 
 + [Predictive Modeling](courses/dsci412/predmod.md)
 
-  This is a course in statistical learning. It covers the theory of many machine learning algorithms as well as use of R for applying these algorithms.
+  This is a course in statistical learning. It covers the theory of many machine learning algorithms as well using R to apply these algorithms and analyze the results.
 
 + [Machine Learning](courses/dsci356/ml.md)
 
-  This is an introductory course in machine learning. The topics covered include using data preparation, classification, regression, validation, and hyperparameter tuning. These notes were developed some time ago and are in desperate need of an update. 
+  This is an introductory course in machine learning. The topics covered include using data preparation, classification, regression, validation, and hyperparameter tuning. These notes were developed some time ago and are in desperate need of an update.
 
-+ [Deep Learning](courses/dsci356/nnet.md)
++ [Deep Learning](courses/dsci390/nnet.md)
 
   This is an introductory course in deep learning. Topics covered include using neural networks for classification and regression, CNNs for image classification, RNNs for NLP tasks, and data augmentation. These notes were developed some time ago and are in desperate need of an update.
+
+## Kaggle Projects
 
 
 ## Other Projects
