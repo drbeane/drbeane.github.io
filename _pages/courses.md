@@ -9,9 +9,10 @@ header:
 
 Here you will find links to courses that I have developed and taught in Actuarial Science, Data Science, and Statistics. For each course, I have provided a collection of various types of resources that I have developed for these courses. Please note that these resources, like this page, are a continual work in progress. There is no doubt that they contain typos and minor errors here and there.
 
-+ [Introduction to Python](courses/dsci303/python.md)
++ [Python for Data Science](courses/dsci303/python.md)
++ [Big Data Analytics](courses/dsci417/bigdata.md)
 + [Machine Learning](courses/dsci356/ml.md)
-+ [Neural Networks](courses/dsci390/nnet.md)
++ [Deep Learning](courses/dsci390/nnet.md)
 + [Probability Theory](courses/mth341/probability.md)
 + [Regression Analysis](courses/mth345/regression.md)
 + [Financial Mathematics](courses/mth324/financial_math.md)

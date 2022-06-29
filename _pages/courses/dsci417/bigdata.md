@@ -1,15 +1,12 @@
 ---
-title: "Introduction to Python"
+title: "Big Data Analytics"
 layout: archive
-permalink: /courses/python
+permalink: /courses/bigdata
 header:
   image: "../../../images/canyonlands.jpg"
 ---
 
-On this page you will find html renders of Jupyter notebooks that I developed for use the following courses offered at Maryville University:
-* DSCI 303 - Introduction Python
-+ DSCI 503 - Python
-* DSCI 130 - Introduction Programming
+On this page you will find html renders of Jupyter notebooks that I developed for use the following courses offered at Maryville University: <b>DSCI 303 - Introduction Python</b>, <b>DSCI 503 - Python</b>, and <b>DSCI 130 - Introduction Programming</b>.
 
 **Disclaimer:** These notebooks are not intended to be a standalone resource for learning Python. These were created to supplement lecture presentations.   
 
