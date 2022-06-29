@@ -9,8 +9,14 @@ header:
 
 This page contains information about some of the programming projects on which I have worked, along with samples of code that I have written for these projects.
 
+## Contents
++ Course Development
++ [Kaggle Projects](#markdown-header-kaggle-projects)
++ Other Projects
+
+
 ## Course Development
-Many of these courses I have developed in recent have involved programming. The notes I have developed for these courses provide examples of code that I have written. Some notable courses are mentioned below.
+Many of these courses I have developed in recent years have involved programming. The notes I have developed for these courses provide examples of code that I have written. Some notable courses are mentioned below.
 
 + [Big Data Analytics](courses/dsci417/bigdata.md)
 
@@ -24,7 +30,7 @@ This course covers the use of Apache Spark for performing distributed data analy
 
 + [Predictive Modeling](courses/dsci412/predmod.md)
 
-> This course covers the use of Apache Spark for performing distributed data analysis. The course emphasizes the use of PySpark to develop applications within a Databricks environment. Specific topics covered in the course include RDDs, Spark DataFrames, Spark SQL, Machine Learning, and Structured Streaming. 
+> This course covers the use of Apache Spark for performing distributed data analysis. The course emphasizes the use of PySpark to develop applications within a Databricks environment. Specific topics covered in the course include RDDs, Spark DataFrames, Spark SQL, Machine Learning, and Structured Streaming.
 
 + [Machine Learning](courses/dsci356/ml.md)
 + [Deep Learning](courses/dsci390/nnet.md)
