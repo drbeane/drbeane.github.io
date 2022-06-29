@@ -6,9 +6,11 @@ header:
   image: "../../../images/canyonlands.jpg"
 ---
 
-On this page you will find html renders of Jupyter notebooks that I developed for use the following courses offered at Maryville University: <b>DSCI 303 - Introduction Python</b>, <b>DSCI 503 - Python</b>, and <b>DSCI 130 - Introduction Programming</b>.
+This page contains links to html renders of Databricks notebooks that I developed for the following two courses:
++ DSCI 417 - Big Data Analytics (Undergraduate)
++ DSCI 617 - Big Data Analytics (Graduate)
 
-**Disclaimer:** These notebooks are not intended to be a standalone resource for learning Python. These were created to supplement lecture presentations.   
+These courses cover the use of Apache Spark for performing distributed data analysis. The courses emphasizes the use of PySpark to develop applications within a Databricks environment.
 
 + [01 - Introduction to Spark](01 - Introduction to Spark.html)
 + [02 - Databricks Workspace](02 - Databricks Workspace.html)
