@@ -21,24 +21,32 @@ Here you will find links to courses that I have developed and taught in Actuaria
 
 
 <h2>Courses Taught</h2>
-During the last 16 years, I have taught a wide variety of courses, and have continually taught and developed new courses. A list of courses that I have taught is provided here. Courses whose name is followed by **`(dev)`** are courses that I personally created and developed course materials for.
+Here you will find a list of courses that I have taught during my academic career. I developed many of these courses from scratch. This is especially true for the Computer Science, Data Science , Statistics, and Financial Mathematics courses that I have taught.
 
 <b>Data Science</b>
-* Intro to Python for Data Science **`(dev)`**
-* Data Analysis in R **`(dev)`**
-* Machine Learning **`(dev)`**
-* Neural Networks **`(dev)`**
+* Python for Data Science
+* Data Analysis in R
+* Machine Learning
+* Deep Learning
+* Predictive Modeling
+* Data Science Capstone
+
+<b>Data Science</b>
+* Introduction to Programming
 
 <b>Probability and Statistics</b>
 * Basic Statistics
 * Statistics for Natural Sciences
-* Regression Analysis **`(dev)`**
-* Probability and Mathematical Statistics I - II
+* Regression Analysis
+* Probability Theory
+* Mathematical Statistics
 
-<b>Financial Mathematics</b>
+<b>Financial Mathematics and Finance</b>
 * Quantitative Methods for Business
-* Theory of Financial Mathematics I - II **`(dev)`**
-* Models for Financial Economics **`(dev)`**
+* Interest Theory
+* Financial Mathematics
+* Models for Financial Economics
+* Corporate Finance
 
 <b>Mathematics</b>
 * College Algebra
