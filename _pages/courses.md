@@ -20,7 +20,7 @@ Here you will find links to courses that I have developed and taught in Actuaria
 + [Models for Financial Economics](courses/mth326/mfe.md)
 
 
-<h2>Courses Taught</h2>
+# Courses Taught
 Here you will find a list of courses that I have taught during my academic career. I developed many of these courses from scratch. This is especially true for the Computer Science, Data Science , Statistics, and Financial Mathematics courses that I have taught.
 
 <b>Data Science</b>
@@ -31,7 +31,7 @@ Here you will find a list of courses that I have taught during my academic caree
 * Predictive Modeling
 * Data Science Capstone
 
-<b>Data Science</b>
+<b>Computer Science</b>
 * Introduction to Programming
 
 <b>Probability and Statistics</b>
