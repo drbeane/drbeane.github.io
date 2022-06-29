@@ -1,0 +1,398 @@
+
+
+
+
+
+
+
+<h2 id="Introduction-to-Variables">Introduction to Variables</h2>
+<p>Variables are an important aspect of any programming language. A variable can be thought of as a container or storage location for a piece of information. Every variable has two features: a <strong>value</strong> and a <strong>name</strong>.</p>
+<ul>
+<li>The <strong>value</strong> of a variable is the information that is stored within the variable. This could be a single number, a list of numbers, a string of characters, or some more complex type of information.</li>
+<li>The <strong>name</strong> of a variable is sequence of characters that is used to identify the variable. We use the name of a variable in statements to access its contents.</li>
+</ul>
+<p>We define variables using the assignment operator "=".</p>
+<p>In&nbsp;[12]:</p>
+<pre><span class="c1"># Define variables x and y</span>
+<span class="n">x</span> <span class="o">=</span> <span class="mi">4</span>
+<span class="n">y</span> <span class="o">=</span> <span class="mi">9</span>
+</pre>
+<p>We can use the <code>print()</code> to check the value of the variables <code>x</code> and <code>y</code>.</p>
+<p>In&nbsp;[13]:</p>
+<pre><span class="nb">print</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">y</span><span class="p">)</span>
+</pre>
+<pre>4
+9
+</pre>
+<p>We can perform arithmetic operations using variables that are storing numbers.</p>
+<p>In&nbsp;[14]:</p>
+<pre><span class="nb">print</span><span class="p">(</span><span class="mi">3</span><span class="o">*</span><span class="n">x</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">x</span> <span class="o">+</span> <span class="mi">2</span><span class="o">*</span><span class="n">y</span><span class="p">)</span>
+</pre>
+<pre>12
+22
+</pre>
+<p>Notice using variables in arithmetic operations does not affect the values of those variables.</p>
+<p>In&nbsp;[15]:</p>
+<pre><span class="nb">print</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">y</span><span class="p">)</span>
+</pre>
+<pre>4
+9
+</pre>
+<p>We can use previously defined variables to create new variables.</p>
+<p>In the cell below, we calculate the product of <code>x</code> and <code>y</code>, and store the result in a new variable, <code>z</code>.</p>
+<p>In&nbsp;[16]:</p>
+<pre><span class="n">z</span> <span class="o">=</span> <span class="n">x</span><span class="o">*</span><span class="n">y</span>
+</pre>
+<p>Print the value of <code>z</code>.</p>
+<p>In&nbsp;[17]:</p>
+<pre><span class="nb">print</span><span class="p">(</span><span class="n">z</span><span class="p">)</span>
+</pre>
+<pre>36
+</pre>
+<h2 id="Changing-the-Value-of-a-Variable">Changing the Value of a Variable</h2>
+<p>In general, variables are not static objects. While the name of a variable is fixed, the contents of that variable can be changed or overwritten. We illustrate this idea in the next two code cells.</p>
+<p>In&nbsp;[18]:</p>
+<pre><span class="n">n</span> <span class="o">=</span> <span class="mi">42</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+</pre>
+<pre>42
+</pre>
+<p>In&nbsp;[19]:</p>
+<pre><span class="n">n</span> <span class="o">=</span> <span class="mf">2.3</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">n</span><span class="p">)</span>
+</pre>
+<pre>2.3
+</pre>
+<p>For variables that contain numeric data, if we create a variable by setting its value equal to a previously created variable, this will result in a the creation of a completely new variable. The two variables will have the same value (at least initially), but will be distinct from one another.</p>
+<p>n the next cell, we create a new variable called <code>a</code> with a value of 37. We then create a variable <code>b</code>, setting it equal to <code>a</code>.</p>
+<p>In&nbsp;[20]:</p>
+<pre><span class="n">a</span> <span class="o">=</span> <span class="mi">37</span>
+<span class="n">b</span> <span class="o">=</span> <span class="n">a</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">a</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">b</span><span class="p">)</span>
+</pre>
+<pre>37
+37
+</pre>
+<p>We now change the value of <code>b</code> to 18 and then print <code>a</code> and <code>b</code> again.</p>
+<p>In&nbsp;[21]:</p>
+<pre><span class="n">b</span> <span class="o">=</span> <span class="mi">18</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">a</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">b</span><span class="p">)</span>
+</pre>
+<pre>37
+18
+</pre>
+<p>Notice that the value of <code>b</code> changed, but the value of <code>a</code> was unaffected. Although <code>b</code> was set equal to <code>a</code> when it was created, it is a separate variable.</p>
+<h2 id="Assigning-a-Value-to-a-Variable-Based-on-its-Current-Value">Assigning a Value to a Variable Based on its Current Value</h2>
+<p>Occasionally we will want to redefine the value of a variable in a way that depends on the current value of the variable. The next few cells provide several examples of this. In each case, the expression on the right side of the assignment operator <code>=</code> is evaluated numerically, and then the resulting numerical value is assigned to the variable.</p>
+<p>In&nbsp;[22]:</p>
+<pre><span class="c1"># Define a variable s with initial value of 7</span>
+<span class="n">s</span> <span class="o">=</span> <span class="mi">7</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>
+</pre>
+<pre>7
+</pre>
+<p>In&nbsp;[23]:</p>
+<pre><span class="c1"># Double the value of s, storing the result back into s.</span>
+<span class="n">s</span> <span class="o">=</span> <span class="mi">2</span><span class="o">*</span><span class="n">s</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>
+</pre>
+<pre>14
+</pre>
+<p>In&nbsp;[24]:</p>
+<pre><span class="c1"># Increment the value of s by 3.</span>
+<span class="n">s</span> <span class="o">=</span> <span class="n">s</span> <span class="o">+</span> <span class="mi">3</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>
+</pre>
+<pre>17
+</pre>
+<p>In&nbsp;[25]:</p>
+<pre><span class="c1"># Square the value of s. </span>
+<span class="n">s</span> <span class="o">=</span> <span class="n">s</span><span class="o">**</span><span class="mi">2</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>
+</pre>
+<pre>289
+</pre>
+<h2 id="Incrementing-Variables">Incrementing Variables</h2>
+<p>The process of incrementing, or increasing, a variable by a certain amount is one with many practical applications in computer science and data science. Python, like many other programming languages, comes equipped with a shorthand means of performing this task.</p>
+<p>The operator "+=" is used to perform variable incrementation, as shown below.</p>
+<p>In&nbsp;[26]:</p>
+<pre><span class="c1"># Define i to have an initial value of 5.</span>
+<span class="n">i</span> <span class="o">=</span> <span class="mi">5</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">i</span><span class="p">)</span>
+</pre>
+<pre>5
+</pre>
+<p>In&nbsp;[27]:</p>
+<pre><span class="c1"># Increment i by 1.</span>
+<span class="c1">#i = i + 1</span>
+<span class="n">i</span> <span class="o">+=</span> <span class="mi">1</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">i</span><span class="p">)</span>
+</pre>
+<pre>6
+</pre>
+<p>In&nbsp;[28]:</p>
+<pre><span class="c1"># Increment i by 3.</span>
+<span class="n">i</span> <span class="o">+=</span> <span class="mi">3</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">i</span><span class="p">)</span>
+</pre>
+<pre>9
+</pre>
+<h2 id="Variable-Names">Variable Names</h2>
+<p>Python variable names can include numbers, letters, and underscores, but cannot contain any other characters or spaces. Variable names must always start with a letter.</p>
+<p>In&nbsp;[29]:</p>
+<pre><span class="c1"># These are valid variable names.</span>
+
+<span class="n">var1</span> <span class="o">=</span> <span class="mf">3.14159</span>
+<span class="n">this_is_a_valid_name</span> <span class="o">=</span> <span class="mf">2.71828</span>
+<span class="n">t0tally_val1d</span> <span class="o">=</span> <span class="mf">1.414</span>
+</pre>
+<p>Although the variable name <code>t0tally_val1d</code> is allowed by Python, using a variable name like this should be discouraged. Naming variables in a way that can make them difficult to read or remember can cause headaches for yourself, or for those reading your code.</p>
+<p>The next three cells illustrate variable names that are not valid.</p>
+<p>In&nbsp;[30]:</p>
+<pre><span class="c1"># Variable must start with a letter.</span>
+<span class="mi">1</span><span class="n">var</span> <span class="o">=</span> <span class="mf">3.14159</span>
+</pre>
+<pre><span class="ansi-cyan-intense-fg ansi-bold">  File </span><span class="ansi-green-intense-fg ansi-bold">"&lt;ipython-input-30-ca98c4cf8759&gt;"</span><span class="ansi-cyan-intense-fg ansi-bold">, line </span><span class="ansi-green-intense-fg ansi-bold">2</span>
+<span class="ansi-yellow-intense-fg ansi-bold">    1var = 3.14159</span>
+<span class="ansi-white-intense-fg ansi-bold">       ^</span>
+<span class="ansi-red-intense-fg ansi-bold">SyntaxError</span><span class="ansi-red-intense-fg ansi-bold">:</span> invalid syntax
+</pre>
+<p>In&nbsp;[31]:</p>
+<pre><span class="c1"># Variable names cannot contain spaces.</span>
+<span class="n">bad</span> <span class="n">name</span> <span class="o">=</span> <span class="mf">2.71828</span>
+</pre>
+<pre><span class="ansi-cyan-intense-fg ansi-bold">  File </span><span class="ansi-green-intense-fg ansi-bold">"&lt;ipython-input-31-c226f65a4995&gt;"</span><span class="ansi-cyan-intense-fg ansi-bold">, line </span><span class="ansi-green-intense-fg ansi-bold">2</span>
+<span class="ansi-yellow-intense-fg ansi-bold">    bad name = 2.71828</span>
+<span class="ansi-white-intense-fg ansi-bold">           ^</span>
+<span class="ansi-red-intense-fg ansi-bold">SyntaxError</span><span class="ansi-red-intense-fg ansi-bold">:</span> invalid syntax
+</pre>
+<p>In&nbsp;[37]:</p>
+<pre><span class="c1"># Underscores are the only non-alphanumeric characters allowed in a name.</span>
+<span class="n">thi</span><span class="err">$</span><span class="n">_is_inv</span><span class="nd">@lid</span> <span class="o">=</span> <span class="mf">1.414</span>
+</pre>
+<pre><span class="ansi-cyan-intense-fg ansi-bold">  File </span><span class="ansi-green-intense-fg ansi-bold">"&lt;ipython-input-37-66da23651f39&gt;"</span><span class="ansi-cyan-intense-fg ansi-bold">, line </span><span class="ansi-green-intense-fg ansi-bold">2</span>
+<span class="ansi-yellow-intense-fg ansi-bold">    thi$_is_inv@lid = 1.414</span>
+<span class="ansi-white-intense-fg ansi-bold">       ^</span>
+<span class="ansi-red-intense-fg ansi-bold">SyntaxError</span><span class="ansi-red-intense-fg ansi-bold">:</span> invalid syntax
+</pre>
+<p>Python variable names are case sensitive. Variable names that use different combinations of uppercase and lowercase letters, but are otherwise identical will refer to different variables.</p>
+<p>In&nbsp;[42]:</p>
+<pre><span class="c1"># var, Var, and vAr all refer to different variables.</span>
+<span class="n">var</span> <span class="o">=</span> <span class="mi">12</span>
+<span class="n">Var</span> <span class="o">=</span> <span class="mi">45</span>
+<span class="n">vAr</span> <span class="o">=</span> <span class="mi">139</span>
+</pre>
+<p>Let's print the value of these variables to demonstrate that they are distinct objects.</p>
+<p>In&nbsp;[43]:</p>
+<pre><span class="nb">print</span><span class="p">(</span><span class="n">var</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">Var</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">vAr</span><span class="p">)</span>
+</pre>
+<pre>12
+45
+139
+</pre>
+<p>In&nbsp;[44]:</p>
+<pre><span class="c1"># The variable VAR is currently undefined. </span>
+<span class="nb">print</span><span class="p">(</span><span class="n">VAR</span><span class="p">)</span>
+</pre>
+<pre><span class="ansi-red-intense-fg ansi-bold">---------------------------------------------------------------------------</span>
+<span class="ansi-red-intense-fg ansi-bold">NameError</span>                                 Traceback (most recent call last)
+<span class="ansi-green-intense-fg ansi-bold">&lt;ipython-input-44-8cebca2ac97f&gt;</span> in <span class="ansi-cyan-fg">&lt;module&gt;</span>
+<span class="ansi-green-fg">      1</span> <span class="ansi-red-intense-fg ansi-bold"># The variable VAR is currently undefined.</span>
+<span class="ansi-green-intense-fg ansi-bold">----&gt; 2</span> print<span class="ansi-yellow-intense-fg ansi-bold">(</span>VAR<span class="ansi-yellow-intense-fg ansi-bold">)</span>
+
+<span class="ansi-red-intense-fg ansi-bold">NameError</span>: name 'VAR' is not defined</pre>
+<p>Although Python allows you to use <code>var</code>, <code>Var</code>, and <code>vAr</code> as names for distinct variables, this is bad programming practice as it could cause confusion for anyone reading or working with your code (including yourself).</p>
+<h2 id="Numeric-Data-Types">Numeric Data Types</h2>
+<p>Every variable in Python has a "type". The type of a variable is based on the contents of that variable, and determines the ways in which that variable can be used. For example, we cannot perform certain operations on variables of certain types.</p>
+<p>We will begin our discussion of data types with the data types intended to hold numbers. Python has three numerical variable types: <code>int</code>, <code>float</code>, and <code>complex</code>. In this class, we will work only with the <code>int</code> and <code>float</code> variables.</p>
+<ul>
+<li>An <code>int</code> variable is used to represent an integer.</li>
+<li>A <code>float</code> variable is used to represent a decimal number.</li>
+</ul>
+<p>We will discuss the importance of variable types in more depth later. For now, we will show how to determine a variable's type using the <code>type()</code> function.</p>
+<p>In&nbsp;[45]:</p>
+<pre><span class="n">x</span> <span class="o">=</span> <span class="mi">7</span>
+<span class="nb">type</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
+</pre>
+<p>Out[45]:</p>
+<pre>int</pre>
+<p>In&nbsp;[46]:</p>
+<pre><span class="n">y</span> <span class="o">=</span> <span class="mf">3.7</span>
+<span class="nb">type</span><span class="p">(</span><span class="n">y</span><span class="p">)</span>
+</pre>
+<p>Out[46]:</p>
+<pre>float</pre>
+<p>Python infers whether a numeric variable should be stored as an <code>int</code> or a <code>float</code> based on the value of that variable. Occasionally we might wish to assign a whole number value to a variable, but have it actually stored as a float. We can accomplish this by adding ".0" to the end of the number.</p>
+<p>In&nbsp;[47]:</p>
+<pre><span class="n">z</span> <span class="o">=</span> <span class="mf">14.0</span>
+<span class="nb">type</span><span class="p">(</span><span class="n">z</span><span class="p">)</span>
+</pre>
+<p>Out[47]:</p>
+<pre>float</pre>
+<h2 id="Operations-Combining-Floats-and-Ints">Operations Combining Floats and Ints</h2>
+<p>The sum of an int and a float is always stored as a float.</p>
+<p>In&nbsp;[48]:</p>
+<pre><span class="nb">print</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">y</span><span class="p">)</span>
+<span class="n">u</span> <span class="o">=</span> <span class="n">x</span> <span class="o">+</span> <span class="n">y</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">u</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">u</span><span class="p">))</span>
+</pre>
+<pre>7
+3.7
+10.7
+&lt;class 'float'&gt;
+</pre>
+<p>In&nbsp;[49]:</p>
+<pre><span class="nb">print</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">z</span><span class="p">)</span>
+<span class="n">v</span> <span class="o">=</span> <span class="n">x</span> <span class="o">+</span> <span class="n">z</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">v</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">v</span><span class="p">))</span>
+</pre>
+<pre>7
+14.0
+21.0
+&lt;class 'float'&gt;
+</pre>
+<p>The ratio of any combination of ints and floats is always stored as a float.</p>
+<p>In&nbsp;[50]:</p>
+<pre><span class="n">a</span> <span class="o">=</span> <span class="mi">7</span>
+<span class="n">b</span> <span class="o">=</span> <span class="mi">5</span>
+<span class="n">q</span> <span class="o">=</span> <span class="n">a</span> <span class="o">/</span> <span class="n">b</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">q</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">q</span><span class="p">))</span>
+</pre>
+<pre>1.4
+&lt;class 'float'&gt;
+</pre>
+<p>In&nbsp;[51]:</p>
+<pre><span class="n">c</span> <span class="o">=</span> <span class="mi">20</span>
+<span class="n">d</span> <span class="o">=</span> <span class="mi">4</span>
+<span class="n">p</span> <span class="o">=</span> <span class="n">c</span> <span class="o">/</span> <span class="n">d</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">p</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">p</span><span class="p">))</span>
+</pre>
+<pre>5.0
+&lt;class 'float'&gt;
+</pre>
+
+
+
+
+-------------------------------------------------------------
+
+
+
+
+
+
+
+<h2 id="Static-vs.-Dynamic-Typing">Static vs. Dynamic Typing</h2>
+<p>In many programming languages, you specify a type for a variable upon creation. In those languages, you can change the value of the variable, but the new value must be consistent with the specified type of the variable. Languages with this property are referred to as being <strong>statically typed</strong>.</p>
+<p>Python is a <strong>dynamically typed</strong> language. In such a language, we do not specify the type of a variable when we create it. We specify only a value, and Python infers the data type from that value. If we change the value of the variable in a way that is inconsistent with the current type of the variable, then Python simply changes the variable's type.</p>
+<p>Dynamic typing is demonstrated in the two cells below.</p>
+
+<pre><span class="n">p</span> <span class="o">=</span> <span class="mi">4</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">p</span><span class="p">))</span>
+<span class="n">p</span> <span class="o">=</span> <span class="mf">3.999</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">p</span><span class="p">))</span>
+</pre>
+<pre style="width: 100%; border: 0px; background: #ffffff; padding: 10px;">
+&lt;class 'int'&gt;
+&lt;class 'float'&gt;
+</pre>
+
+<pre><span class="n">q</span> <span class="o">=</span> <span class="mi">7</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">q</span><span class="p">))</span>
+<span class="n">q</span> <span class="o">=</span> <span class="mi">7</span> <span class="o">/</span> <span class="mi">1</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">q</span><span class="p">))</span>
+</pre>
+<pre style="width: 100%; border: 0px; background: #ffffff; padding: 10px;">
+&lt;class 'int'&gt;
+&lt;class 'float'&gt;
+</pre>
+<h2 id="Type-Coercion">Type Coercion</h2>
+<p>There are occasions when we would like to convert a variable from one data type to another. This is referred to as <strong>type coercion</strong>. We can coerce a variable to another date type by passing it to a function whose name is identical to the desired data type. For instance, if we want to convert a variable <code>x</code> to an integer, we would use the command <code>int(x)</code>. If we want to convert a variable <code>y</code> to a float, we would wuse <code>float(y)</code>.</p>
+<p>We will study coercion more later, but for now, let's see what happens when we coerce ints to floats and vice-versa.</p>
+
+<pre><span class="c1"># Coercing an int to a float. </span>
+
+<span class="n">x_int</span> <span class="o">=</span> <span class="mi">19</span>
+<span class="n">x_float</span> <span class="o">=</span> <span class="nb">float</span><span class="p">(</span><span class="n">x_int</span><span class="p">)</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="n">x_float</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">x_float</span><span class="p">))</span>
+</pre>
+<pre style="width: 100%; border: 0px; background: #ffffff; padding: 10px;">
+19.0
+&lt;class 'float'&gt;
+</pre>
+
+<pre><span class="c1"># Coercing a float to an int. </span>
+
+<span class="n">y_float</span> <span class="o">=</span> <span class="mf">6.8</span>
+<span class="n">y_int</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">y_float</span><span class="p">)</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="n">y_int</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">y_int</span><span class="p">))</span>
+</pre>
+<pre style="width: 100%; border: 0px; background: #ffffff; padding: 10px;">
+6
+&lt;class 'int'&gt;
+</pre>
+<p>Notice that we we coerce a <code>float</code> to an <code>int</code>, the Python does not round the float to the nearest integer. Instead, it truncates (or chops off) the decimal portion of the number. In other words, when performing float-to-int coercion, Python will ALWAYS round the number DOWN to the next lowest integer, regardless of the value of the decimal portion.</p>
+<h2 id="Rounding">Rounding</h2>
+<p>If we wish to round a <code>float</code> value, we can do so using the <code>round()</code> function. The syntax for <code>round()</code> is as follows: If we wish to round the value <code>number</code> to a number of decimal places indicated by <code>digits</code>, we could use the command <code>round(number, digits)</code>.</p>
+<p>Some examples of the <code>round()</code> function are provided below.</p>
+
+<pre><span class="nb">print</span><span class="p">(</span><span class="nb">round</span><span class="p">(</span><span class="mf">3.14159</span><span class="p">,</span> <span class="mi">0</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">round</span><span class="p">(</span><span class="mf">3.14159</span><span class="p">,</span> <span class="mi">1</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">round</span><span class="p">(</span><span class="mf">3.14159</span><span class="p">,</span> <span class="mi">2</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">round</span><span class="p">(</span><span class="mf">3.14159</span><span class="p">,</span> <span class="mi">3</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">round</span><span class="p">(</span><span class="mf">3.14159</span><span class="p">,</span> <span class="mi">4</span><span class="p">))</span>
+</pre>
+<pre style="width: 100%; border: 0px; background: #ffffff; padding: 10px;">
+3.0
+3.1
+3.14
+3.142
+3.1416
+</pre>
+<p>If we do not provide <code>round()</code> with the desired number of digits, writing only <code>round(number)</code>, then Python will round the number to the nearest integer.</p>
+
+<pre><span class="nb">print</span><span class="p">(</span><span class="nb">round</span><span class="p">(</span><span class="mf">12.3</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">round</span><span class="p">(</span><span class="mf">12.7</span><span class="p">))</span>
+</pre>
+<pre style="width: 100%; border: 0px; background: #ffffff; padding: 10px;">
+12
+13
+</pre>
+<h2 id="The-None-Type">The None Type</h2>
+<p>Python provides a special value called <code>None</code> that is used to indicate the absense of a value. In the cell below, we create a variable storing a value of <code>None</code>. We then print this variable, as well as its type.</p>
+
+<pre><span class="n">empty_var</span> <span class="o">=</span> <span class="kc">None</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">empty_var</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">empty_var</span><span class="p">))</span>
+</pre>
+<pre style="width: 100%; border: 0px; background: #ffffff; padding: 10px;">
+None
+&lt;class 'NoneType'&gt;
+</pre>
+<p>One situation in which you might encounter <code>None</code> is if you attempt to assign to a variable the output (or return value) of a function that does not actually produce any output. The <code>print()</code> function, for example, performs an action by displaying text to the screen, but does not actually return any values. We see this in the next cell, in which we attempt to store the output of <code>print()</code> into a variable, and then print the value of this variable to confirm that is is <code>None</code>.</p>
+
+<pre><span class="n">my_output</span> <span class="o">=</span> <span class="nb">print</span><span class="p">(</span><span class="s1">'Hello'</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">my_output</span><span class="p">)</span>
+</pre>
+<pre style="width: 100%; border: 0px; background: #ffffff; padding: 10px;">
+Hello
+None
+</pre>
+<p>We will discuss return values of functions and the <code>None</code> value further in later lessons.</p>
