@@ -21,7 +21,7 @@ This page contains links to html renders of Jupyter Notebooks and Google Colab n
 + [08 - MNIST CNN](08 - MNIST CNN.html)
 + [09 - Fashion MNIST](09 - Fashion MNIST.html)
 + [10 - Google Colab Test](https://drive.google.com/drive/u/5/folders/1P22M7dleoaDvFSAlGa06G3IyOo_bWyhN)
-+ [11 - Training a CNN using GPU](https://drive.google.com/file/d/1uX-dqMjqcy07m-UA34qgVJoVkv844SVT/view?usp=sharing)
++ [11 - Training a CNN using GPU](https://colab.research.google.com/drive/1uX-dqMjqcy07m-UA34qgVJoVkv844SVT)
 + [12 - CIFAR10](https://colab.research.google.com/drive/1kmDQpcx2w0-MolaPO67XUBdXlS5CMZwR?usp=sharing)
 + [13 - Data Generators](https://colab.research.google.com/drive/1Rd5baUfqdikYX2F2ZrTsv9zS5aWOPTnW?usp=sharing)
 + [14 - Fit Generator](https://colab.research.google.com/drive/1w92jIdyXKEEvjf631DD5g6wNLx97d9XS?usp=sharing)
