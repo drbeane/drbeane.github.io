@@ -10,7 +10,7 @@ This page contains links to html renders of Databricks notebooks that I develope
 + **DSCI 417 - Big Data Analytics** (Undergraduate)
 + **DSCI 617 - Big Data Analytics** (Graduate)
 
-These courses cover the use of Apache Spark for performing distributed data analysis. The courses emphasizes the use of PySpark to develop applications within a Databricks environment.
+These courses cover the use of Apache Spark for performing distributed data analysis. The courses emphasize the use of PySpark to develop applications within a Databricks environment.
 
 + [01 - Introduction to Spark](01 - Introduction to Spark.html)
 + [02 - Databricks Workspace](02 - Databricks Workspace.html)
