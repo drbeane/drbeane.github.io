@@ -7,10 +7,10 @@ header:
 ---
 
 This page contains links to html renders of RStudio notebooks that I developed in Fall 2019 for the following two courses offered at Maryville University:
-+ DSCI 412 - Predictive Modeling (Undergraduate)
-+ DSCI 512 - Predictive Modeling (Graduate)
++ **DSCI 412 - Predictive Modeling** (Undergraduate)
++ **DSCI 512 - Predictive Modeling** (Graduate)
 
-These courses intriduce the theory of several machine learning and statistical learning techniques. They also cover the use of R for performing tasks related to the techniques.
+These courses introduce the theory of several machine learning and statistical learning techniques. They also cover the use of R for performing tasks related to the techniques.
 
 + [1.1 - Introduction to Statistical Learning](https://rpubs.com/beane/n1_1)
 + [2.1 - Introduction to Supervised Learning](https://rpubs.com/beane/n2_1)

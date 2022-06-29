@@ -7,9 +7,9 @@ header:
 ---
 
 This page contains links to html renders of Jupyter notebooks that I developed in Fall 2019 for use in the following courses offered at Maryville University:
-+ DSCI 303 - Introduction Python
-+ DSCI 503 - Python
-+ COSC 130 - Introduction Programming
++ **DSCI 303 - Introduction Python**
++ **DSCI 503 - Python**
++ **COSC 130 - Introduction Programming**
 
 Each of these three courses includes an introduction to general programming in Python. The courses DSCI 303 and DSCI 503 also cover applications of Python in scientific computing, statistics, machine learning, data analysis, and data visualization.
 
