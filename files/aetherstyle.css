@@ -327,14 +327,6 @@ code {
     color: #2e3237!important;
 }
 
-code span {
-    color: #2e3237!important;
-}
-
-.token {
-    background: 0 0 !important;
-}
-
 .notion-semantic-string.code {
     background: var(--inline-code-bg-color) !important;
     color: var(--color-text-default) !important;
@@ -1152,7 +1144,6 @@ pre[class*="language-"] {
     word-spacing: normal;
     word-break: normal;
     word-wrap: normal;
-    color: var(--color-primary)!important;
     font-size: 1em;
     line-height: 1.5em;
     -moz-tab-size: 4;
@@ -1215,13 +1206,6 @@ pre[class*="language-"] {
     color: var(--color-primary)!important;
 }
 
-.token.comment {
-    color: #949ea9!important;
-}
-
-.token.function {
-    color: #2e3237!important;
-}
 
 .token.important {
     color: #909ca8!important;
@@ -1239,16 +1223,8 @@ pre[class*="language-"] {
     color: var(--color-primary)!important;
 }
 
-.token.punctuation {
-    color: #2e3237!important;
-}
-
 .token.selector {
     color: #2e3237!important;
-}
-
-.token.string {
-    color: var(--color-primary)!important;
 }
 
 .token.tag {
